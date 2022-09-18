@@ -30,6 +30,7 @@ These are presented in roughly the order I encountered them in.
 *   date released: 1980
 *   treasure-oriented: yes
 *   wikipedia: [Zork](https://en.wikipedia.org/wiki/Zork)
+*   play online @ [archive.org](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom_PASCAL) (Apple II)
 
 I first encountered Zork I on the Commodore 64.  I think it might have
 been the first text adventure I played, but I'm actually not certain.
@@ -47,7 +48,7 @@ For the whole story, see [Dungeon][].
 *   available for: Z-Machine
 *   date released: 1983
 *   wikipedia: [Enchanter](https://en.wikipedia.org/wiki/Enchanter_(video_game))
-*   play online @ archive.org: [Enchanter](https://archive.org/details/a2_Enchanter_1983_Infocom)
+*   play online @ [archive.org](https://archive.org/details/a2_Enchanter_1983_Infocom) (Apple II)
 
 Like Zork I, I first encountered this on a Commodore 64, but only finished
 it (with help from the Invisiclues booklet) many years later.
@@ -64,7 +65,7 @@ off very differently from the other two.
 *   available for: Z-Machine
 *   date released: 1984
 *   wikipedia: [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(video_game))
-*   play online @ bbc: [The Hitchhiker's Guide to the Galaxy Game - 30th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/)
+*   play online @ [www.bbc.co.uk](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/) (30th Anniversary Edition)
 
 Like Zork I and Enchanter, I first played this on a Commodore 64.
 
@@ -88,6 +89,7 @@ text adventure as well.
 *   written using: MDL
 *   treasure-oriented: yes
 *   wikipedia: [Zork](https://en.wikipedia.org/wiki/Zork)
+*   play online @ [archive.org](https://archive.org/details/DungeonV2.5a1990DECUSAdventureInteractiveFiction) (DOS)
 
 The best thing to ever come out of MIT. (You think I'm joking, don't you?)
 
@@ -124,6 +126,7 @@ Spellbreaker too.
 *   date released: 1976
 *   treasure-oriented: yes
 *   wikipedia: [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+*   play online @ [archive.org](https://archive.org/details/msdos_Classic_Adventure_-_The_Original_Colossal_Cave_1996) (DOS, 370-point)
 
 I don't think I played Colossal Cave until sometime after I tried playing
 Dungeon, but I don't remember exactly.
