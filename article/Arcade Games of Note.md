@@ -16,6 +16,7 @@ in public venues such as video arcades, supermarkets, and convenience stores.
 *   controls: joystick
 *   date released: 1982
 *   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
+*   play online @ [archive.org](https://archive.org/details/arcade_pepper2)
 
 To the untrained eye, it's a ripoff of Pac-Man: fill in all the regions
 instead of eat all the dots. But there's something about it that sets it
@@ -48,6 +49,7 @@ Not sure if it's truly a platformer, though.
 *   controls: dual joystick
 *   date released: 1982
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8456)
+*   play online @ [archive.org](https://archive.org/details/arcade_losttomb)
 
 Gnarly game, but very hard. I especially liked the 3D effect on the
 intermediate levels with the staircases. (Even though it's awkward to control
@@ -73,6 +75,7 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8452)
 *   entry @ [mobygames](http://www.mobygames.com/game/looping)
 *   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
+*   play online @ [archive.org](https://archive.org/details/arcade_looping)
 
 In this game, your goal is to pilot an airplane over some terrain
 and then through a field of obstacles — inside a maze, essentially.
@@ -95,6 +98,7 @@ free, non-commercial use.
 *   date released: 1990
 *   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8433)
+*   play online @ [archive.org](https://archive.org/details/arcade_liquidk)
 
 Very cute. Quite possibly a sequel or pseudo-sequel to The New Zealand Story,
 since you play what appears to be a platypus, and there are oblique references
@@ -116,7 +120,7 @@ shape of the kiwi.)
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
 pistols, magical fireball-belching staffs, and the like.
 
-### Kick-Man
+### Kick
 
 ![screenshot](https://static.catseye.tc/archive/static.tvtropes.org/pmwiki%252Fpub%252Fimages%252Fkickmanarcadegame.jpg)
 
@@ -124,6 +128,9 @@ pistols, magical fireball-belching staffs, and the like.
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8298)
 *   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KickMan)
 *   video @ [youtube](https://www.youtube.com/watch?v=uBbIRGcQXOc)
+*   play online @ [archive.org](https://archive.org/details/arcade_kick)
+
+a.k.a. Kick-Man.
 
 I remember it from a café in a small farming community in Manitoba.
 
