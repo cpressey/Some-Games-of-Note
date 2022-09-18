@@ -1,54 +1,8 @@
-Video Games of Note
+Arcade Games of Note
 ===================
 
 *   schema: Video game
 *   status: permanently under construction
-
-I originally compiled this list (as a list of my favourite games) because
-I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
-then I could too.  I've also been told that I have good taste in video games.
-
-It has since become somewhat generalized from being a list of favourite games
-to a list of games [of note](A%20Note%20on%20Items%20of%20Note.md).
-
-Gameplay generally counts more than the quality of the graphics or sound
-effects or music, but the latter elements sometimes have their part to play
-in making a really notable game.  "Realism" of the game is generally not
-a factor.
-
-These are ordered from most impressive to me to least impressive.  Note, however,
-that the order and contents of this list are subject to change.
-
-This list is mostly arcade games.  Games for home systems have intentionally
-been offloaded to articles dedicated to the particular system:
-
-*   [Commodore 64 Games of Note](Commodore%2064%20Games%20of%20Note.md)
-*   [Apple II Games of Note](Apple%20II%20Games%20of%20Note.md)
-
-### Typhoon Thompson
-
-![screenshot](https://static.catseye.tc/archive/www.atarimagazines.com/st-log%252Fissue29%252F35-3.jpg)
-
-*   written by: Dan Gorlin
-*   published by: Brøderbund
-*   genre: Shoot-'em'-Up (nominally)
-*   available for: Amiga 500, Atari ST
-*   controls: mouse and keyboard
-*   date released: 1988
-*   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
-
-Quite possibly the cutest game ever.
-
-Not actually a shoot-'em-up, as the author pointed out in his interview for
-[Halcyon Days](http://www.dadgum.com/halcyon/BOOK/GORLIN.HTM):
-
-> I like it because it's unique, the gameplay is simple but infinitely
-> variable, and for me the characters really come to life. Some people
-> mistook it for a shooter at the time, but it's really more like a game
-> of Blitzkrieg Chess. If you just start blasting you lose immediately.
-> Each kind of enemy has moves it can make, and the player has his moves,
-> but things never happen the same way twice. It's not high concept in
-> the way that "Choplifter" is, but rather a kind of art piece.
 
 ### Pepper II
 
@@ -164,21 +118,51 @@ shape of the kiwi.)
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
 pistols, magical fireball-belching staffs, and the like.
 
-### Llamatron
+### Kick-Man
 
-![screenshot](https://static.catseye.tc/archive/www.atarimania.com/st%252Fscreens%252Fllamatron_llamasoft_6.gif)
+![screenshot](https://static.catseye.tc/archive/static.tvtropes.org/pmwiki%252Fpub%252Fimages%252Fkickmanarcadegame.jpg)
 
-*   written by: Jeff Minter
-*   genre: Shoot-'em'-Up
-*   available for: Atari ST, Amiga, MS-DOS
-*   controls: joystick and 1 button
-*   date released: 1991
-*   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
+*   available for: Arcade
+*   wikipedia: [Kick (video game)](https://en.wikipedia.org/wiki/Kick_(video_game))
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8298)
+*   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KickMan)
+*   video @ [youtube](https://www.youtube.com/watch?v=uBbIRGcQXOc)
 
-Fast-paced, psychedaelic, mindless fun, like most Jeff Minter games.
-Basically a clone of the arcade game Robotron, but with shaggy, smelly
-quadrupeds. And cans of Coke. And Mandelbrot sets...
+I remember it from a café in a small farming community in Manitoba.
 
-Llamatron was written for the Atari ST, but I only ever played a version
-for MS-DOS, and apparently this an erstaz version, although I do not recall
-where I read that.
+### Crazy Climber
+
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F0%252F06%252FCrazy_Climber_by_Nihon_Bussan_Co._Ltd.JPG)
+
+*   available for: Arcade
+*   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7426)
+*   video @ [youtube](https://www.youtube.com/watch?v=QJAEmOtLZHg)
+
+I remember it from a café in a small farming community in Manitoba.  In
+the instructions panel affixed to the cabinet, the protagonist was
+referred to a "protagonist".  This is where I learned the meaning of
+the word "protagonist" from.
+
+### Mighty Guy
+
+![screenshot](https://static.catseye.tc/archive/www.gameclassification.com/files%252Fgames%252FMighty-Guy.png)
+
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
+*   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
+
+I thought this was called "Superguy".
+
+I remember seeing this at the Greyhound station in Winnipeg — back when it
+was located in the downtown, and back when it had a shop with a whole row
+of arcade machines in it.  This is also where I first saw Super Mario
+Brothers, fwiw.
+
+Notable because — well, it was a top-down view, which was truly top-down;
+you saw the top of the protagonist's head, not their rear or side profile.
+On top of that, you could jump.  On top of that, IIRC, you could change
+direction while jumping.  So, while running southest, you could jump over
+an obstacle such as a rock, and then while over the rock, you could move
+northeast, then west, then east, then finally land north of the rock.
+And this seemed more like lax game design and/or programming, than anything
+intentional, but who knows.
