@@ -143,6 +143,22 @@ The 2013-06-14 comment by zaphod77 on the Lemon64 entry linked to above explains
 better than I could.  It does not, however, help them seem less arbitrary.  I don't think anything
 could do that.
 
+### Cauldron II
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcauldron_ii_04.gif)
+
+*   subtitle: The Pumpkin Strikes Back
+*   published by: Palace Software
+*   available for: Commodore 64, ZX Spectrum
+*   date released: 1986
+*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
+*   play online @ [archive.org](https://archive.org/details/Cauldron_II_The_Pumpkin_Strikes_Back_1986_Palace_Software_cr_Newlook) (C64)
+
+The graphics are really good.  The bounce-as-you-move mechanic is interesting,
+but also a bit frustrating.  It's sometimes hard to visualize how the screens
+connect.  It's a very hard game.  But the graphics are really good.
+
 ### Whistler's Brother
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fw%252Fwhistlers_brother_02.gif)

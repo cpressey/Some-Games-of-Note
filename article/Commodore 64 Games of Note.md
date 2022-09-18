@@ -98,8 +98,10 @@ suggests it was ported to any other systems.
 *   wikipedia: [Big Mac (video game)](https://en.wikipedia.org/wiki/Big_Mac_%28video_game%29)
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
+*   play online @ [archive.org](https://archive.org/details/Big_Mac_The_Mad_Maintenance_Man_1985_Mastertronic)
 
-Nice use of character-mapped graphics.
+Nice use of character-mapped graphics.  Well... reasonable use of character-mapped graphics,
+plus some nice gameplay (although the oversensitivity of the switches can admittedly be annoying).
 
 ### Ultimate Wizard
 
@@ -110,22 +112,10 @@ Nice use of character-mapped graphics.
 *   date released: 1986
 *   wikipedia: [Wizard (1984 video game)](https://en.wikipedia.org/wiki/Wizard_(1984_video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
+*   play online @ [archive.org](https://archive.org/details/d64_Ultimate_Wizard_1986_Electronic_Arts_Levels)
 
 Obviously influenced by Jumpman.  It's Jumpman with spells and a construction
 kit, really.  Not that that's bad, at all.
-
-### Cauldron II
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcauldron_ii_04.gif)
-
-*   subtitle: The Pumpkin Strikes Back
-*   published by: Palace Software
-*   available for: Commodore 64
-*   date released: 1986
-*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
-
-The graphics are really good.
 
 ### Bubble Burst
 
@@ -137,6 +127,7 @@ The graphics are really good.
 *   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 *   entry @ [myabandonware](https://www.myabandonware.com/game/bubble-burst-jns)
 *   entry @ [mobygames](https://www.mobygames.com/game/bubble-burst)
+*   play online @ [archive.org](https://archive.org/details/Bubble_Burst_1984_Spinnaker_Software)
 
 Well, it's got a dinosaur in a bathtub, that's for sure.
 
