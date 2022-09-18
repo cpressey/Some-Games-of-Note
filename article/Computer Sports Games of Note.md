@@ -24,6 +24,7 @@ but note that in this instance it does include
 *   controls: D-pad and 6 buttons
 *   date released: 1997
 *   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
+*   play online @ [archive.org](https://archive.org/details/psx_coolboa2)
 
 It's only barely realistic — for example,
 there is clearly no limit to the amount of spin you can impart to your
@@ -46,7 +47,7 @@ Because what dodgeball game is complete without the ability to
 actually *kill* your opponents?  Not to mention some of the
 players are literally giants.
 
-### Sam & Ed Basketball
+### Basketball Sam & Ed
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fsam_and_ed_basketball_01.gif)
 
@@ -57,6 +58,9 @@ players are literally giants.
 *   controls: joystick and 1 button
 *   date released: 1987
 *   review @ [lemon64](http://www.lemon64.com/reviews/view.php?id=1109)
+*   play online @ [archive.org](https://archive.org/details/Basketball_Sam_Ed_1987_Compute)
+
+a.k.a "Sam & Ed Basketball".
 
 The basketball game where you are the basketball and you bounce off
 the other player, who is also a basketball.
@@ -87,6 +91,8 @@ It was meant to be played with a paddle, but it was also playable
 with an analog joystick, which leads to the "smash your thumb" technique
 for a perfect dart launch, which I will describe here at some point.
 
+(To play the version on archive.org, type `LOAD DART ROOM` then type `RUN`.)
+
 ### Atomic Handball
 
 ![screenshot: title](https://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20title%20%28Frank%20Lindsey%2C%201985%29.png)
@@ -99,6 +105,7 @@ for a perfect dart launch, which I will describe here at some point.
 *   available for: Commodore 64
 *   controls: joystick and 1 button
 *   date released: 1985
+*   play online @ [archive.org](https://archive.org/details/Atomic_Handball_1985_Frank_Lindsay_PD)
 
 Certainly a contender for Best Premise: it's the year 2040 and
 all major sports have been replaced by the exciting _Atomic Handball!_
