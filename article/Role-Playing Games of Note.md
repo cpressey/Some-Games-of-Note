@@ -14,7 +14,7 @@ That said, here is my list of role-playing games
 
 ### Alphaman
 
-![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fa%252Falphaman-315%252Falphaman_1.gif)
+![screenshot](https://static.catseye.tc//archive/www.myabandonware.com/media%252Fscreenshots%252Fa%252Falphaman-315%252Falphaman_1.gif)
 
 *   written by: Jeff Olson
 *   available for: MS-DOS
@@ -76,7 +76,7 @@ it first-hand, but alas I have not.
 
 ### Below the Root
 
-![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fb%252Fbelow-the-root-4v0%252Fthumbs%252Fbelow-the-root_4.png)
+![screenshot](https://static.catseye.tc//archive/www.myabandonware.com/media%252Fscreenshots%252Fb%252Fbelow-the-root-4v0%252Fthumbs%252Fbelow-the-root_4.png)
 
 *   published by: Windham Classics
 *   available for: Commodore 64, Apple II, MS-DOS
@@ -167,7 +167,7 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 ### Sword of Fargoal
 
-![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fs%252Fsword-of-fargoal-65p%252Fthumbs%252Fsword-of-fargoal_2.png)
+![screenshot](https://static.catseye.tc//archive/www.myabandonware.com/media%252Fscreenshots%252Fs%252Fsword-of-fargoal-65p%252Fthumbs%252Fsword-of-fargoal_2.png)
 
 *   written by: Jeff McCord
 *   published by: Epyx
