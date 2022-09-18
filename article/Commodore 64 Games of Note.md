@@ -69,6 +69,37 @@ December 1987.
 
 This is possibly one of the best type-in games to ever have appeared in a magazine.
 
+### Zig Zag
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
+
+*   publisher: Mirrorsoft, Spectrum Holobyte
+*   written by: Anthony Crowther
+*   date released: 1986
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
+*   play online @ [archive.org](https://archive.org/details/Zig_Zag_1987_Mirrorsoft_cr_Level99)
+
+Not to be confused with [a different game called Zig Zag](https://en.wikipedia.org/wiki/Zig_Zag_(video_game))
+by DK'Troniks, which was also available for the C64.
+
+Unclear if the publisher was Mirrorsoft or Spectrum Holobyte.  Different sources suggest both.
+Likely it was first one, then transferred to the other.  The Wikipedia article for Spectrum Holobyte
+lists it, and lists only C64 as the system released for.  I haven't seen anything elsewhere that
+suggests it was ported to any other systems.
+
+### Big Mac: The Mad Maintenance Man
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
+
+*   publisher: Mastertronic
+*   written by: Tony Kelly
+*   date released: 1985
+*   wikipedia: [Big Mac (video game)](https://en.wikipedia.org/wiki/Big_Mac_%28video_game%29)
+*   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
+
+Nice use of character-mapped graphics.
+
 ### Lava Flow
 
 ![screenshot](https://static.catseye.tc/archive/www.gb64.com/Screenshots%252FL%252FLava_Flow.png)

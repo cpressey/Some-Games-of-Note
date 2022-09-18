@@ -201,15 +201,3 @@ Game-wise, it's an okay game.
 Perhaps a classic, or perhaps not well-known enough to be a true classic, I'm not sure.
 
 The graphics in the C64 version are really good.
-
-### Spindizzy
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fspindizzy_03.gif)
-
-*   available for: Commodore 64, Amstrad CPC, Apple II
-*   wikipedia: [Spindizzy (video game)](https://en.wikipedia.org/wiki/Spindizzy_(video_game))
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
-*   play online @ [archive.org](https://archive.org/details/Spindizzy_1986_Electric_Dreams_cr_Newcomers) (C64)
-
-According to Wikipedia, the game was originally released for the Commodore 64 and Amstrad CPC,
-then later ported to other systems.

@@ -37,26 +37,6 @@ not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" r
 
 This is more of a puzzle game than a video game.
 
-### Zig Zag
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
-
-*   publisher: Mirrorsoft
-*   written by: Anthony Crowther
-*   date released: 1986
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
-*   play online @ [archive.org](https://archive.org/details/Zig_Zag_1987_Mirrorsoft_cr_Level99)
-
-Not to be confused with [a different game called Zig Zag](https://en.wikipedia.org/wiki/Zig_Zag_(video_game))
-which was also available for the C64.
-
-### Big Mac: The Mad Maintenance Man
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
-
-*   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
-
 ### Ultimate Wizard
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fu%252Fultimate_wizard_04.gif)
@@ -90,9 +70,6 @@ The graphics are really good.
 *   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 
 Well, it's got a dinosaur in a bathtub, that's for sure.
-
-Commodore 64 Type-Ins
----------------------
 
 ### Hovver Bovver
 
