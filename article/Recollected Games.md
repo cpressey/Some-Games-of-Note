@@ -25,7 +25,9 @@ on (or were a conversion from) other systems.
 *   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
 
-Very likely a C64 classic.
+It's a C64 classic.  This did eventually get converted to other systems, but
+not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" rather than
+"an 8-bit game with ports C64 and other systems".
 
 ### The Castles of Dr. Creep
 
@@ -59,10 +61,11 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 *   published by: Electronic Arts
 *   available for: Commodore 64
 *   date released: 1986
+*   wikipedia: [Wizard (1984 video game)](https://en.wikipedia.org/wiki/Wizard_(1984_video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
 
-Obviously influenced by Jumpman.  Jumpman with spells and a construction
-kit, really.
+Obviously influenced by Jumpman.  It's Jumpman with spells and a construction
+kit, really.  Not that that's bad, at all.
 
 ### Cauldron II
 
