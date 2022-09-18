@@ -104,20 +104,6 @@ do seem to be able to go in circles quite easily.
 
 [Cloak & Dagger]: Recollected%20Games.md#cloak--dagger
 
-### Starquake
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fstarquake_02.gif)
-
-*   published by: Bubble Bus Software
-*   available for: Commodore 64, MSX, Amstrad CPC, Atari 400/800, others
-*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
-*   play online @ [archive.org](https://archive.org/details/zx_Starquake_1985_Bubblebus_Software) (ZX Spectrum)
-
-Perhaps a classic, or perhaps not well-known enough to be a true classic, I'm not sure.
-
-The graphics in the C64 version are really good.
-
 ### Everyone's a Wally
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fe%252Feveryones_a_wally_02.gif)
@@ -133,6 +119,54 @@ this would be a contender.  It's worth noting that "being a wally" is British sl
 
 There were also versions for the ZX Spectrum and Amstrad CPC but it's not clear to me
 if the Commodore 64 version was a later port or if they were developed simultaneously.
+
+### Slinky!
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fslinky_02.gif)
+
+*   written by: Unknown
+*   published by: Cosmi
+*   genre: Q*Bert
+*   available for: Commodore 64, Atari 400/800
+*   controls: joystick and 1 button
+*   date released: 1984
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2351)
+*   entry @ [mobygames](https://www.mobygames.com/game/c64/slinky)
+*   video @ [youtube](https://www.youtube.com/watch?v=n-c_xppTg6Q)
+*   play online @ [archive.org](https://archive.org/details/a8b_Slinky_1983_Cosmi_US_k_file) (Atari 400/800)
+
+This one's pretty memorably weird, and deserves comment.
+
+Once upon a time there was a game called Q*Bert which was quite famous and inspired a number of clones,
+and each of these clones tended to have their own idiosyncratic mechanics.  And Slinky is one such clone.
+
+The 2013-06-14 comment by zaphod77 on the Lemon64 entry linked to above explains those mechanics far
+better than I could.  It does not, however, help them seem less arbitrary.  I don't think anything
+could do that.
+
+### Whistler's Brother
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fw%252Fwhistlers_brother_02.gif)
+
+*   written by: Louis Ewens
+*   published by: Brøderbund
+*   genre: Platformer(?)
+*   available for: Commodore 64, Atari 400/800
+*   controls: joystick and 1 button
+*   date released: 1984
+*   wikipedia: [Whistler's Brother](https://en.wikipedia.org/wiki/Whistler%27s_Brother)
+*   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   video @ [youtube](https://www.youtube.com/watch?v=lT32TokTYqc)
+*   play online @ [archive.org](https://archive.org/details/d64_Whistlers_Brother_1984_Broderbund) (C64)
+
+Notable for gameplay mechanic: the player controls one character directly
+with a joystick, but also a second character indirectly, by influencing
+where they go, by whistling for them.
+
+However, despite this interesting mechanic, I must admit I never really
+got into this game.  Something about it failed to appeal to me — perhaps
+it was that the graphics felt kind of uninspired.
 
 ### Equinox
 
@@ -154,6 +188,20 @@ However, I swear I've also heard this song on radio/muzak while I was in Paris, 
 It's entirely possible it was merely a similar tune, or that they are the same song but which came first?
 
 Game-wise, it's an okay game.
+
+### Starquake
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fstarquake_02.gif)
+
+*   published by: Bubble Bus Software
+*   available for: Commodore 64, MSX, Amstrad CPC, Atari 400/800, others
+*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
+*   play online @ [archive.org](https://archive.org/details/zx_Starquake_1985_Bubblebus_Software) (ZX Spectrum)
+
+Perhaps a classic, or perhaps not well-known enough to be a true classic, I'm not sure.
+
+The graphics in the C64 version are really good.
 
 ### Spindizzy
 

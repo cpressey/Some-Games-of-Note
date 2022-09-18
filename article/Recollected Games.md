@@ -95,36 +95,6 @@ Well, it's got a dinosaur in a bathtub, that's for sure.
 Commodore 64 Type-Ins
 ---------------------
 
-### Crossroads
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcrossroads_01.gif)
-
-*   published by: COMPUTE! Publications Inc.
-*   available for: Commodore 64
-*   date released: 1987
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
-
-This was a type-in game that appeared in
-[Compute! Gazette Issue 54](https://archive.org/details/1987-12-computegazette),
-December 1987.
-
-This is possibly one of the best type-in games to ever have appeared in a magazine.
-
-### Lava Flow
-
-![screenshot](https://static.catseye.tc/archive/www.gb64.com/Screenshots%252FL%252FLava_Flow.png)
-
-*   published by: COMPUTE! Publications Inc.
-*   available for: Commodore 64
-*   entry @ [issuu](https://issuu.com/zetmoon/docs/compute_gazette_issue_63_1988_sep/41)
-*   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
-
-This was a type-in game that appeared in
-[Compute! Gazette Issue 63](https://archive.org/details/1988-09-computegazette),
-September 1988.
-
-It's interesting because the lava works like a cellular automaton, a bit.
-
 ### Hovver Bovver
 
 *   written by: Jeff Minter
