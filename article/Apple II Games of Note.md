@@ -134,7 +134,7 @@ Paratrooper, which was a clone of this game.
 
 ### Penny Arcade
 
-![screenshot](https://static.catseye.tc//archive/archive.org/services%252Fimg%252Fa2_Penny_Arcade_1979_Apple)
+![screenshot](https://archive.org/download/a2_Penny_Arcade_1979_Apple/a2_Penny_Arcade_1979_Apple.gif)
 
 *   written by: Bill Budge
 *   published by: Apple Computer, Inc.
