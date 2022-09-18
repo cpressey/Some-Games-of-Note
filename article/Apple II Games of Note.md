@@ -47,6 +47,7 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
 *   video @ [youtube](https://www.youtube.com/watch?v=m0oU9ZfRnpw)
+*   play online @ [archive.org](https://archive.org/details/wozaday_Beer_Run)
 
 I didn't know quite what to make of this game at the time, and I still don't.
 Knowing now that it was a tie-in with Olympia beer (which was apparently a
@@ -66,6 +67,9 @@ Was this an attempt to package a bit of college humour in a video game?
 Perhaps if I were to research Olympia beer and find out what their advertising
 with Artesians was like, I'd be able to answer that better.  But to be honest,
 I'm not really motivated to.
+
+Incidentally, Mark Turmell also created the game _Turmoil_, which IMO is a much
+better game than Beer Run.
 
 ### Swashbuckler
 
@@ -88,7 +92,7 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ### Star Maze
 
-![screenshot](https://static.catseye.tc/archive/www.video-games-museum.com/en%252Fscreenshots%252FApple%252520II%252F3%252F13056-ingame-Star-Maze.png)
+![screenshot](https://static.catseye.tc//archive/www.video-games-museum.com/en%252Fscreenshots%252FApple%252520II%252F3%252F13056-ingame-Star-Maze.png)
 
 *   written by: Eastman Computing(?)
 *   published by: Sir-Tech
@@ -99,6 +103,7 @@ saw it) figures of the characters makes it stand out in my mind.
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
 *   entry @ [computinghistory](http://www.computinghistory.org.uk/det/31821/Star-Maze/)
 *   video @ [youtube](https://www.youtube.com/watch?v=dJQ-hnM_Gtw)
+*   play online @ [archive.org](https://archive.org/details/a2_Star_Maze_1982_Sir_Tech)
 
 Sort of "Asteroids with walls", but moreseo.  The omnidirectional scrolling and physics
 made it seem very high-concept (to me, at the time.)
@@ -120,6 +125,7 @@ pretty impressive.  I imagine it computes what parts of the screen need to be up
 *   date released: 1981
 *   wikipedia: [Sabotage (video game)](https://en.wikipedia.org/wiki/Sabotage_(video_game))
 *   video @ [youtube](https://www.youtube.com/watch?v=fbHW66AbzHA)
+*   play online @ [archive.org](https://archive.org/details/wozaday_Sabotage)
 
 Something quite strange about being able to steer your shots.
 
@@ -150,29 +156,6 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 
 But Penny Arcade is also notable for being one of the few games I remember having
 a copyright date in the 1970's — the other being [Dart Room][].
-
-### Sammy Lightfoot
-
-![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F88587-sammy-lightfoot-apple-ii-screenshot-using-the-trampoline.gif)
-
-*   written by: Warren Schwader
-*   published by: Sierra On-Line
-*   genre: Platformer
-*   available for: Apple II, Commodore 64, Colecovision, IBM PC
-*   controls: keyboard or joystick(?)
-*   date released: 1983
-*   wikipedia: [Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot)
-*   entry @ [mobygames](http://www.mobygames.com/game/apple2/sammy-lightfoot)
-*   play online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
-
-OK, so this is actually only listed here because there was a demo
-called "Kill Sammy" which used the assets from Sammy Lightfoot, but
-instead of being the game, let you select from a menu the way in
-which Sammy should meet his demise (laser, being squished by something,
-etc.)
-
-You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_Kill_Sammy_19xx_Grue_The)
-or watch a video "walkthrough" @ [youtube](https://www.youtube.com/watch?v=GfTJD8tvxi4).
 
 [Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
 
