@@ -3,10 +3,9 @@ Apple II Games of Note
 
 *   common available for: Apple II
 *   schema: Video game
-*   status: permanently under construction
 
-This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
-which is dedicated to games for that 6502-based home computer system, the
+This list is an offshoot of video games [of note](A%20Note%20on%20Items%20of%20Note.md)
+which specifically lists games for that 6502-based home computer system, the
 Apple II.  Or Apple ][.  Or Apple ][+.  Or Apple //e.
 
 ### Russki Duck
@@ -15,7 +14,6 @@ Apple II.  Or Apple ][.  Or Apple ][+.  Or Apple //e.
 
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
 *   genre: Graphic Adventure
-*   available for: Apple II
 *   controls: keyboard
 *   date released: 1982
 *   video @ [youtube](https://www.youtube.com/watch?v=GjH2dmleaZY)
@@ -41,7 +39,6 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 *   written by: Mark Turmell
 *   published by: Sirius Software, Inc
 *   genre: Platformer?
-*   available for: Apple II
 *   controls: keyboard
 *   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
@@ -78,7 +75,6 @@ better game than Beer Run.
 *   written by: Paul Stephenson
 *   published by: Datamost
 *   genre: Beat-'em-Up
-*   available for: Apple II
 *   controls: keyboard
 *   date released: 1982
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
@@ -94,10 +90,9 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ![screenshot](https://archive.org/download/a2_Star_Maze_1982_Sir_Tech/a2_Star_Maze_1982_Sir_Tech.gif)
 
-*   written by: Eastman Computing(?)
+*   written by: Eastman Computing Inc.
 *   published by: Sir-Tech
 *   genre: Maze-runner
-*   available for: Apple II
 *   controls: keyboard
 *   date released: 1982
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
@@ -120,7 +115,6 @@ pretty impressive.  I imagine it computes what parts of the screen need to be up
 *   written by: Mark Allen
 *   published by: On-Line Systems
 *   genre: Shoot-'em-Up(?)
-*   available for: Apple II
 *   controls: paddle or keyboard or analogue joystick
 *   date released: 1981
 *   wikipedia: [Sabotage (video game)](https://en.wikipedia.org/wiki/Sabotage_(video_game))
@@ -138,8 +132,7 @@ Paratrooper, which was a clone of this game.
 
 *   written by: Bill Budge
 *   published by: Apple Computer, Inc.
-*   genre: Sports
-*   available for: Apple II
+*   genre: Sports(?)
 *   controls: paddles
 *   date released: 1979
 *   entry @ [mobygames](http://www.mobygames.com/game/apple2/apple-tapes-introductory-programs-for-the-apple-ii-plus)

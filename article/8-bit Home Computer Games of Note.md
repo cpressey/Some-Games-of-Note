@@ -2,9 +2,8 @@
 =================================
 
 *   schema: Video game
-*   status: permanently under construction
 
-This is a list of video games of note that were developed for one
+This is a list of video games [of note](A%20Note%20on%20Items%20of%20Note.md) that were developed for one
 8-bit home computer system and then ported to other
 8-bit home computer systems.
 

@@ -6,7 +6,7 @@ Computer Games of Note
 This is a list of computer games of note.
 
 "Computer game" is not well-defined here, but excludes
-[video games](Video%20Games%20of%20Note.md) and
+[video games](Arcade%20Games%20of%20Note.md) and
 [text adventures](%20Text%20Adventures%20of%20Note.md).
 As a result of this exclusion, it mainly includes puzzles,
 turn-based strategy, and simulations, but is not limited to those.

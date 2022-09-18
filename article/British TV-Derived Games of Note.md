@@ -1,6 +1,8 @@
 British TV-Derived Games of Note
 ================================
 
+*   schema: Video game
+
 This is a list of 8-bit video games [of note](A%20Note%20on%20Items%20of%20Note.md),
 specifically ones which were based on content from British television productions.
 

@@ -2,7 +2,6 @@ Recollected Games
 =================
 
 *   schema: Recollected game
-*   status: permanently under construction
 
 These are games which are possibly not remarkable enough nor classic enough
 to be put in one of the other lists, but which I have memories of playing

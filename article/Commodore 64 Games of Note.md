@@ -3,9 +3,8 @@ Commodore 64 Games of Note
 
 *   common available for: Commodore 64
 *   schema: Video game
-*   status: permanently under construction
 
-This is a list of video games of note that were developed specifically
+This is a list of video games [of note](A%20Note%20on%20Items%20of%20Note.md) that were developed specifically
 for the Commodore 64 and were not a port from another home system.
 
 ### Street Surfer
@@ -15,7 +14,6 @@ for the Commodore 64 and were not a port from another home system.
 *   written by: David Barbour
 *   published by: Mastertronic
 *   genre: Racing
-*   available for: Commodore 64
 *   controls: joystick and 1 button
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2505)
@@ -44,7 +42,6 @@ speed.
 *   written by: Unknown
 *   published by: Mogul Communications
 *   genre: Graphic Adventure(?)
-*   available for: Commodore 64
 *   controls: joystick and 1 button
 *   date released: 1983
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
@@ -62,7 +59,6 @@ known mechanisms.
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcrossroads_01.gif)
 
 *   published by: COMPUTE! Publications Inc.
-*   available for: Commodore 64
 *   date released: 1987
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
 *   play online @ [archive.org](https://archive.org/details/Crossroads_1987_Compute)
@@ -78,7 +74,6 @@ This is possibly one of the best type-in games to ever have appeared in a magazi
 ![screenshot](https://static.catseye.tc/archive/www.gb64.com/Screenshots%252FL%252FLava_Flow.png)
 
 *   published by: COMPUTE! Publications Inc.
-*   available for: Commodore 64
 *   entry @ [issuu](https://issuu.com/zetmoon/docs/compute_gazette_issue_63_1988_sep/41)
 *   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
 *   play online @ [archive.org](https://archive.org/details/Lava_Flow_1988_Compute)
