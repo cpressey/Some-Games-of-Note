@@ -435,3 +435,18 @@ as the main game.
 Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
+
+Licensed Characters
+-------------------
+
+Many of the ones in "Games Based on British Television" used licensed characters.
+
+### Licensed Character Games
+
+*   Spot (7-Up mascot) (NES)
+*   Fido (7-Up mascot) (??) (NES)
+*   The Noid (Domino's Pizza mascot) (NES)
+*   Garfield (NES)  (Apparently it was awful.)
+*   Road Runner (arcade game)
+*   Kool-Aid (starring Kool-Aid man) (Atari 2600)
+*   There were actually a [huge number of Asterix and Obelix video games](https://en.wikipedia.org/wiki/List_of_Asterix_games#Video_games).
