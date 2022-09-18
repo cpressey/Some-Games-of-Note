@@ -117,9 +117,10 @@ Even though those are otherwise unrelated.
 
 You know those "tactics" games?  This is an early example of a "tactics" game.
 
-It was written in BASIC, and from what I understand, the full rules were spelled out in
-the manual — so if you really wanted to, you could (with some effort) play it with
-paper and pencil.  But finding a scan of the manual to confirm that would be lovely.
+It was written in BASIC, and the rules, including the formulas determining
+hit probability and so forth, were spelled out in
+[the manual](https://archive.org/details/galactic-gladiators) (archive.org) — so
+if you really wanted to, you could (with some effort) play it with paper and pencil.
 
 ### Wonder Boy in Monster Land
 
