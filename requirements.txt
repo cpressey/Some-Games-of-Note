@@ -1,0 +1,10 @@
+# The articles herein are written in Feedmark format.
+# To set up a virtualenv to use the reference implementation of Feedmark
+# to run the scripts found here:
+#
+#   virtualenv --python=python3.6 venv
+#   source venv/bin/activate
+#   pip install -r requirements.txt
+
+Markdown==2.6.8
+Feedmark==0.11
