@@ -1,5 +1,5 @@
 Arcade Games of Note
-===================
+====================
 
 *   common available for: Arcade
 *   schema: Video game

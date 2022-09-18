@@ -14,7 +14,7 @@ some redeeming characteristics.
 
 ![screenshot](https://static.catseye.tc/archive/www.filfre.net/wp-content%252Fuploads%252F2011%252F11%252FPrisoner-The-_000000007.png)
 
-*   authors: David Mullich
+*   written by: David Mullich
 *   published by: Edu-Ware
 *   genre: Simulation(...?)
 *   available for: Apple II
@@ -31,8 +31,8 @@ yet diverging significantly from it.  The use of the show was not, in fact, lice
 ![screenshot](https://www.lemon64.com/games/screenshots/young_ones_02.png)
 
 *   published by: Orpheus
-*   date released: 1986
 *   available for: Commodore 64
+*   date released: 1986
 *   wikipedia: [The Young Ones (video game)](https://en.wikipedia.org/wiki/The_Young_Ones_(video_game))
 *   entry @ [lemon64](https://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/d64_Young_Ones_The_1986_Orpheus)
@@ -47,8 +47,8 @@ Has some redeeming characteristics, like when a player tries to enter the wardro
 
 ![screenshot](https://www.lemon64.com/games/screenshots/danger_mouse_02.png)
 
-*   date released: 1984
 *   available for: ZX Spectrum, Commodore 64, Amstrad CPC
+*   date released: 1984
 *   entry @ [myabandonware](https://www.myabandonware.com/game/danger-mouse-in-double-trouble-4s3)
 *   entry @ [lemon64](https://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/zx_Danger_Mouse_in_Double_Trouble_1984_Creative_Sparks_a) (ZX Spectrum)
@@ -74,8 +74,8 @@ Has some redeeming characteristics.
 
 ![screenshot](https://www.lemon64.com/games/screenshots/doctor_who_and_the_mines_of_terror_03.png)
 
-*   date released: 1986
 *   available for: BBC Micro, Amstrad CPC, Commodore 64
+*   date released: 1986
 *   wikipedia: [Doctor Who and the Mines of Terror](https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror)
 *   entry @ [lemon64](https://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/Doctor_Who_and_the_Mines_of_Terror_1986_Micropower) (C64)

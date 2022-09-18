@@ -7,6 +7,12 @@ what properties Video Game entries in The Dossier should have.
 The order in which they are listed here induces an order in which they
 should appear on each entry.
 
+### subtitle
+
+*   optional: true
+
+The subtitle of the game.
+
 ### written by
 
 *   optional: true

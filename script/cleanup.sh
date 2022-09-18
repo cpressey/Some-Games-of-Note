@@ -15,10 +15,13 @@ feedmark --input-refdex=refdex.json \
 
 feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Video\ game.md \
+         "$ARTICLES/8-bit Home Computer Games of Note.md" \
          "$ARTICLES/Some Modern Retrogames.md" \
          "$ARTICLES/Commodore 64 Games of Note.md" \
          "$ARTICLES/Apple II Games of Note.md" \
+         "$ARTICLES/Arcade Games of Note.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
+         "$ARTICLES/British TV-Derived Games of Note.md" \
          "$ARTICLES/Computer Sports Games of Note.md" \
          --rewrite-markdown || exit 1
 
@@ -32,3 +35,7 @@ feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Lost\ game.md \
          "$ARTICLES/Lost Games.md" \
          --rewrite-markdown || exit 1
+
+# Not done:
+# - Recollected Games
+# - Role-Playing Games of Note

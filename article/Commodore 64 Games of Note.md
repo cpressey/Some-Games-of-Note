@@ -91,6 +91,7 @@ suggests it was ported to any other systems.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
 
+*   subtitle: The Mad Maintenance Man
 *   written by: Tony Kelly
 *   available for: Commodore 64
 *   date released: 1985
@@ -98,7 +99,6 @@ suggests it was ported to any other systems.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 *   play online @ [archive.org](https://archive.org/details/Big_Mac_The_Mad_Maintenance_Man_1985_Mastertronic)
 *   publisher: Mastertronic
-*   subtitle: The Mad Maintenance Man
 
 Nice use of character-mapped graphics.  Well... reasonable use of character-mapped graphics,
 plus some nice gameplay (although the oversensitivity of the switches can admittedly be annoying).
