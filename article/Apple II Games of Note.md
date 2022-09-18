@@ -92,7 +92,7 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ### Star Maze
 
-![screenshot](https://static.catseye.tc//archive/www.video-games-museum.com/en%252Fscreenshots%252FApple%252520II%252F3%252F13056-ingame-Star-Maze.png)
+![screenshot](https://archive.org/download/a2_Star_Maze_1982_Sir_Tech/a2_Star_Maze_1982_Sir_Tech.gif)
 
 *   written by: Eastman Computing(?)
 *   published by: Sir-Tech
