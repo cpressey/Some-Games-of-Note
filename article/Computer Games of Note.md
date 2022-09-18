@@ -23,11 +23,12 @@ and are probably too strange or too obscure to be considered classics.
 *   published by: Codemasters
 *   genre: Simulation
 *   date released: 1988
+*   available for: Commodore 64, ZX Spectrum
 *   wikipedia: [Rock Star Ate My Hamster](https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster)
 *   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
 *   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
 *   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2167)
-*   play online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
+*   play online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K) (ZX Spectrum)
 
 It's a music industry management simulation game.
 
@@ -40,6 +41,7 @@ It's a music industry management simulation game.
 *   available for: Commodore 64
 *   date released: 1986
 *   download @ [catseye.tc](https://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
+*   play online @ [archive.org](https://archive.org/details/d64_Night_Flight_1985_Tim_Gerchmez_PD) (C64)
 
 In aviation, IFR (Instrument Flight Rules) refers to piloting an aircraft without looking out the window.
 This is useful in pitch darkness, in thick fog, or when writing a flight simulator where you don't want
@@ -61,7 +63,7 @@ Here is an article about a different IFR simulator: [IFR (Flight Simulator)](htt
 *   genre: Puzzle
 *   available for: ZX Spectrum
 *   date released: 1998
-*   play online @ [archive.org](https://archive.org/details/zx_1D_Tetris_1998_CSSCGC)
+*   play online @ [archive.org](https://archive.org/details/zx_1D_Tetris_1998_CSSCGC) (ZX Spectrum)
 
 It looks like it was an entry to a compo called "CSSCGC 1998".
 
@@ -80,7 +82,7 @@ Hat tip: @ArcOnInternet at twitter.com.
 *   genre: Trivia
 *   available for: Apple iiGS
 *   date released: 1990
-*   play online @ [archive.org](https://archive.org/details/a2_where_in_hell_is_carmen_santiago)
+*   play online @ [archive.org](https://archive.org/details/a2_where_in_hell_is_carmen_santiago) (Apple II)
 
 Use your knowledge of Dante's Inferno to locate Carmen Santiago.
 

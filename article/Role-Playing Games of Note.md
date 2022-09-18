@@ -23,6 +23,7 @@ That said, here is my list of role-playing games
 *   download @ [catseye.tc](http://static.catseye.tc/redistfiles/msdos/Alphaman.zip)
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
+*   play online @ [archive.org](https://archive.org/details/Alphaman11) (DOS)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
@@ -51,9 +52,10 @@ Greek alphabet soup anyway isn't it.
 *   date released: 1982
 *   wikipedia: [Mazes and Monsters](https://en.wikipedia.org/wiki/Mazes_and_Monsters)
 *   video @ [archive.org](https://archive.org/details/mazes_and_monsters)
+*   book @ [archive.org](https://archive.org/details/mazesmonstersnov00jaff)
 
 A fictional role-playing game that appears in the made-for-TV movie of the
-same name.
+same name, which was based on the book of the same name by Rona Jaffe.
 
 I'm not certain if the game itself is noteworthy, but the movie certainly
 is, for it is a window into the moral panic of the time, and it stars a
