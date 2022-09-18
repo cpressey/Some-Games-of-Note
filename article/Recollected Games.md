@@ -18,18 +18,6 @@ Commodore 64
 Some of these aren't totally Commodore 64-specific, and had conversions
 on (or were a conversion from) other systems.
 
-### Starquake
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fstarquake_02.gif)
-
-*   published by: Bubble Bus Software
-*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
-
-Perhaps a C64 classic, but perhaps not well-known enough to be a true classic.
-
-The graphics are really good.
-
 ### Paradroid
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
@@ -48,16 +36,6 @@ Very likely a C64 classic.
 
 This is more of a puzzle game than a video game.
 
-### Spindizzy
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fspindizzy_03.gif)
-
-*   wikipedia: [Spindizzy (video game)](https://en.wikipedia.org/wiki/Spindizzy_(video_game))
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
-
-According to Wikipedia, the game was originally released for the Commodore 64 and Amstrad CPC,
-then later ported to other systems.
-
 ### Zig Zag
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
@@ -73,22 +51,6 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
-
-
-### Everyone's a Wally
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fe%252Feveryones_a_wally_02.gif)
-
-*   available for: Commodore 64
-*   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_A_Wally)
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
-
-If there was an award for Best Representation of a British High Street in an 8-bit Video Game,
-this would be a contender.  It's worth noting that "being a wally" is British slang for
-"being a fool" (approximately speaking).
-
-There were also versions for the ZX Spectrum and Amstrad CPC but it's not clear to me
-if the Commodore 64 version was a later port or if they were developed simultaneously.
 
 ### Ultimate Wizard
 
@@ -122,24 +84,6 @@ The graphics are really good.
 *   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 
 Well, it's got a dinosaur in a bathtub, that's for sure.
-
-### Equinox
-
-![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
-
-*   published by: Mikro-Gen, Ltd
-*   available for: Commodore 64, ZX Spectrum
-*   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
-*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
-
-The internet thinks the [theme music for this game](https://www.youtube.com/watch?v=2Of28GGPUIY) was written
-by Nick Jones, the main(?) developer of the C64 version of this game.  This is entirely possible.
-
-However, I swear I've also heard this song on radio/muzak while I was in Paris, twice.  French synthpop?
-
-It's entirely possible it was merely a similar tune, or that they are the same song but which came first?
-
-Game-wise, it's an okay game.
 
 Commodore 64 Type-Ins
 ---------------------
