@@ -75,8 +75,8 @@ A good game which I remember liking enough to play through to the end.
 *   available for: Atari 2600 VCS
 *   controls: joystick
 *   date released: 2005
-*   entry @ [mobygames](https://www.mobygames.com/game/atari-2600/fall-down)
 *   order @ [atariage](https://atariage.com/store/index.php?l=product_detail&p=308)
+*   entry @ [mobygames](https://www.mobygames.com/game/atari-2600/fall-down)
 
 A retrogame I discovered in the aughts where two players, starting at the top of
 some multi-floored structure, race to fall down to each next lowest level;

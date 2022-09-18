@@ -13,19 +13,19 @@ For more information, [see below](#about-this-collection).
 *   [Atari 2600 Games of Note](article/Atari%202600%20Games%20of%20Note.md) (3)
 *   [British TV-Derived Games of Note](article/British%20TV-Derived%20Games%20of%20Note.md) (5)
 *   [Computer Sports Games of Note](article/Computer%20Sports%20Games%20of%20Note.md) (5)
-*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) (4)
-*   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) (9)
+*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) (5)
+*   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) (10)
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md) (6)
 
 #### Classic Games
 
-*   [Classic Computer Games](article/Classic%20Computer%20Games.md) (10)
+*   [Classic Computer Games](article/Classic%20Computer%20Games.md) (7)
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
 
 #### Other
 
 *   [Lost Games](article/Lost%20Games.md) (7)
-*   [Recollected Games](article/Recollected%20Games.md) (26)
+*   [Recollected Games](article/Recollected%20Games.md) (27)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### About this Collection

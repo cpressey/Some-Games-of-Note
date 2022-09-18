@@ -204,3 +204,22 @@ real time, a party of four adventurers hack and slash their way past various
 nasties, eating their remains, throwing switches, throwing pieces of clothing,
 triggering traps, casting spells, and watching the world fade to black around
 them as their last torch is consumed.
+
+### Ultima VII Part 2: The Serpent Isle
+
+*   authors: Richard Garriott et al.
+*   genre: Role-playing
+*   available for: MS-DOS
+*   controls: mouse
+*   date released: 1993
+*   wikipedia: [Ultima VII Part Two](https://en.wikipedia.org/wiki/Ultima_VII_Part_Two:_Serpent_Isle)
+
+Classic, and would be on a list of classic RPGs, but I don't have one yet.
+
+I wasn't fortunate enough to play this until 2003. This was, of course, long
+after the hardware that it made so many demands on was obsolete, and could only
+be emulated awkwardly — either by [Exult][], which (when I tried it) was kind of
+hard to set up, or by switching between real mode and protected mode thousands
+of times a second, which is just about as happy as it sounds.
+
+[Exult]: http://exult.sourceforge.net/docs.php

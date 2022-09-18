@@ -87,3 +87,13 @@ Hat tip: @ArcOnInternet at twitter.com.
 Use your knowledge of Dante's Inferno to locate Carmen Santiago.
 
 Hat tip: @BadWrongFun at (the now defunct) witches.town.
+
+### Dungeon Keeper II
+
+*   authors: Sean Cooper et al.
+*   genre: Real-time strategy
+*   date released: 1999
+*   wikipedia: [Dungeon Keeper 2](https://en.wikipedia.org/wiki/Dungeon_Keeper_2)
+
+It deserves mention if for no other reason than you get to carve your own
+dungeon out of the rock as part of the game.
