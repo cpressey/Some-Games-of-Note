@@ -73,11 +73,11 @@ This is possibly one of the best type-in games to ever have appeared in a magazi
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
 
-*   publisher: Mirrorsoft, Spectrum Holobyte
 *   written by: Anthony Crowther
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/Zig_Zag_1987_Mirrorsoft_cr_Level99)
+*   publisher: Mirrorsoft, Spectrum Holobyte
 
 Not to be confused with [a different game called Zig Zag](https://en.wikipedia.org/wiki/Zig_Zag_(video_game))
 by DK'Troniks, which was also available for the C64.
@@ -91,14 +91,14 @@ suggests it was ported to any other systems.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
 
-*   subtitle: The Mad Maintenance Man
-*   publisher: Mastertronic
 *   written by: Tony Kelly
+*   available for: Commodore 64
 *   date released: 1985
 *   wikipedia: [Big Mac (video game)](https://en.wikipedia.org/wiki/Big_Mac_%28video_game%29)
-*   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 *   play online @ [archive.org](https://archive.org/details/Big_Mac_The_Mad_Maintenance_Man_1985_Mastertronic)
+*   publisher: Mastertronic
+*   subtitle: The Mad Maintenance Man
 
 Nice use of character-mapped graphics.  Well... reasonable use of character-mapped graphics,
 plus some nice gameplay (although the oversensitivity of the switches can admittedly be annoying).
@@ -124,9 +124,9 @@ kit, really.  Not that that's bad, at all.
 *   published by: Spinnaker Software
 *   available for: Commodore 64
 *   date released: 1984
-*   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 *   entry @ [myabandonware](https://www.myabandonware.com/game/bubble-burst-jns)
 *   entry @ [mobygames](https://www.mobygames.com/game/bubble-burst)
+*   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 *   play online @ [archive.org](https://archive.org/details/Bubble_Burst_1984_Spinnaker_Software)
 
 Well, it's got a dinosaur in a bathtub, that's for sure.

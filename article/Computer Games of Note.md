@@ -22,8 +22,8 @@ and are probably too strange or too obscure to be considered classics.
 *   authors: unknown
 *   published by: Codemasters
 *   genre: Simulation
-*   date released: 1988
 *   available for: Commodore 64, ZX Spectrum
+*   date released: 1988
 *   wikipedia: [Rock Star Ate My Hamster](https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster)
 *   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
 *   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
