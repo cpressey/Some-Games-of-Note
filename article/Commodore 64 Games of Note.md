@@ -87,10 +87,11 @@ Likely it was first one, then transferred to the other.  The Wikipedia article f
 lists it, and lists only C64 as the system released for.  I haven't seen anything elsewhere that
 suggests it was ported to any other systems.
 
-### Big Mac: The Mad Maintenance Man
+### Big Mac
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
 
+*   subtitle: The Mad Maintenance Man
 *   publisher: Mastertronic
 *   written by: Tony Kelly
 *   date released: 1985
@@ -99,6 +100,45 @@ suggests it was ported to any other systems.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 
 Nice use of character-mapped graphics.
+
+### Ultimate Wizard
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fu%252Fultimate_wizard_04.gif)
+
+*   published by: Electronic Arts
+*   available for: Commodore 64
+*   date released: 1986
+*   wikipedia: [Wizard (1984 video game)](https://en.wikipedia.org/wiki/Wizard_(1984_video_game))
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
+
+Obviously influenced by Jumpman.  It's Jumpman with spells and a construction
+kit, really.  Not that that's bad, at all.
+
+### Cauldron II
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcauldron_ii_04.gif)
+
+*   subtitle: The Pumpkin Strikes Back
+*   published by: Palace Software
+*   available for: Commodore 64
+*   date released: 1986
+*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
+
+The graphics are really good.
+
+### Bubble Burst
+
+![screenshot](https://www.myabandonware.com/media/screenshots/b/bubble-burst-u35/bubble-burst_3.png)
+
+*   published by: Spinnaker Software
+*   available for: Commodore 64
+*   date released: 1984
+*   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
+*   entry @ [myabandonware](https://www.myabandonware.com/game/bubble-burst-jns)
+*   entry @ [mobygames](https://www.mobygames.com/game/bubble-burst)
+
+Well, it's got a dinosaur in a bathtub, that's for sure.
 
 ### Lava Flow
 

@@ -37,40 +37,6 @@ not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" r
 
 This is more of a puzzle game than a video game.
 
-### Ultimate Wizard
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fu%252Fultimate_wizard_04.gif)
-
-*   published by: Electronic Arts
-*   available for: Commodore 64
-*   date released: 1986
-*   wikipedia: [Wizard (1984 video game)](https://en.wikipedia.org/wiki/Wizard_(1984_video_game))
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
-
-Obviously influenced by Jumpman.  It's Jumpman with spells and a construction
-kit, really.  Not that that's bad, at all.
-
-### Cauldron II
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcauldron_ii_04.gif)
-
-*   published by: Palace Software
-*   available for: Commodore 64
-*   date released: 1986
-*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
-
-The graphics are really good.
-
-### Bubble Burst
-
-*   published by: Spinnaker Software
-*   available for: Commodore 64
-*   date released: 1984
-*   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
-
-Well, it's got a dinosaur in a bathtub, that's for sure.
-
 ### Hovver Bovver
 
 *   written by: Jeff Minter
