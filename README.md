@@ -4,11 +4,11 @@ Some Games of Note
 A collection of collections of entries on games that I consider notable in some way.
 For more information, [see below](#about-this-collection).
 
-### Games of Note
+#### Games of Note
 
-*   [Arcade Games of Note](article/Arcade%20Games%20of%20Note.md) (?)
-*   [8-bit Home Computer Games of Note](article/8-bit%20Home%20Computer%20Games%20of%20Note.md) (?)
-*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (?)
+*   [Arcade Games of Note](article/Arcade%20Games%20of%20Note.md) (9)
+*   [8-bit Home Computer Games of Note](article/8-bit%20Home%20Computer%20Games%20of%20Note.md) (4)
+*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (4)
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) (7)
 *   [Atari 2600 Games of Note](article/Atari%202600%20Games%20of%20Note.md) (3)
 *   [Computer Sports Games of Note](article/Computer%20Sports%20Games%20of%20Note.md) (5)
@@ -18,7 +18,7 @@ For more information, [see below](#about-this-collection).
 *   [Classic Computer Games](article/Classic%20Computer%20Games.md) (10)
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
 *   [Lost Games](article/Lost%20Games.md) (7)
-*   [Recollected Games](article/Recollected%20Games.md) (37)
+*   [Recollected Games](article/Recollected%20Games.md) (36)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### About this Collection
