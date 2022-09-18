@@ -20,6 +20,7 @@ they are somewhat on the obscure side of "classic".
 *   date released: 1981
 *   wikipedia: [Haunted House (video game)](https://en.wikipedia.org/wiki/Haunted_House_(video_game))
 *   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HauntedHouse)
+*   play online @ [archive.org](https://archive.org/details/Haunted_House_Mystery_Mansion_Graves_Manor_Nightmare_Manor_1982_Atari_James_Andr)
 
 As the TVTropes article says, this is possibly the ur-survival-horror game.
 The game uses invisibility to good effect — just because an object
@@ -38,6 +39,7 @@ I suppose that's minor.
 *   date released: 1980
 *   wikipedia: [Adventure (Atari 2600)](https://en.wikipedia.org/wiki/Adventure_(Atari_2600))
 *   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Adventure)
+*   play online @ [archive.org](https://archive.org/details/Adventure_1978_Atari_NTSC)
 
 Notable for at least two things: one, it was an attempt to "graphicalize" a text adventure;
 that is, the author wanted to translate [Colossal Cave][] to a graphical interface.  And two,
@@ -54,6 +56,7 @@ this notion.)
 *   date released: 1982
 *   wikipedia: [Yars' Revenge](https://en.wikipedia.org/wiki/Yars%27_Revenge)
 *   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/YarsRevenge)
+*   play online @ [archive.org](https://archive.org/details/Yars_Revenge_1982)
 
 This ends up being a very good game, despite being quite simple, probably because the gameplay
 is varied and balanced, despite being quite simple.  In this vein,
