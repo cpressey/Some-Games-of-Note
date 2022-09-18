@@ -22,6 +22,7 @@ This is a list of video games of note that were developed for one
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=802)
 *   video @ [youtube](https://www.youtube.com/watch?v=7aj7W6yjuPE)
 *   video @ [archive.org](https://archive.org/details/C64GVA226-DynamiteDan)
+*   play online @ [archive.org](https://archive.org/details/Dynamite_Dan_1985_Mirrorsoft)
 
 Beautiful graphics.  I believe the antagonists were implemented with "soft sprites"
 (groups of programmable characters), so that all(?) 8 hardware sprites were free to
@@ -42,6 +43,7 @@ multicolour.  The music is also good.  The game itself is quite hard.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   video @ [youtube](https://www.youtube.com/watch?v=rBSW6r9-lQo)
+*   play online @ [archive.org](https://archive.org/details/Pharaohs_Curse_The_1983_Synapse_Software_cr_Anft)
 
 It's difficult to say what contributes to this game's overall charm.
 
@@ -67,6 +69,7 @@ Also: the bird!
 *   entry @ [myabandonware](https://www.myabandonware.com/game/necromancer-5l2)
 *   video @ [youtube](https://www.youtube.com/watch?v=hg-XP-4LbVo)
 *   video @ [archive.org](https://archive.org/details/C64Gamevideoarchive81-Necromancer)
+*   play online @ [archive.org](https://archive.org/details/a8b_Necromancer_1982_Synapse_Software_US_k_file)
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
@@ -85,8 +88,7 @@ explains it better than I can.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 *   video @ [youtube](https://www.youtube.com/watch?v=PVFVQ85uB-E)
-
-_This game was originally developed for the Atari 400/800; this entry is about its C64 port._
+*   play online @ [archive.org](https://archive.org/details/a8b_Zeppelin_1983_Synapse_Software_US_k_file)
 
 Notable because you can shoot out bits of wall, or rather, bits of force field
 and Futuristic Domed City, and in this way it feels a bit like an airborne
@@ -100,4 +102,4 @@ point.  You don't seem to be able to get into a dead-end this way, which is
 probably good (much less frustrating than games in which you can,) but you
 do seem to be able to go in circles quite easily.
 
-[Cloak & Dagger]: Recollected%20Games.md#cloak-dagger
+[Cloak & Dagger]: Recollected%20Games.md#cloak--dagger
