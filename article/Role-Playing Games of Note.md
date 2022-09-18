@@ -84,6 +84,7 @@ it first-hand, but alas I have not.
 *   date released: 1984
 *   wikipedia: [Below the Root](https://en.wikipedia.org/wiki/Below_the_Root_(video_game))
 *   entry @ [myabandonware](http://www.myabandonware.com/game/below-the-root-3e)
+*   play online @ [archive.org](https://archive.org/details/wozaday_Below_The_Root) (Apple II)
 
 I never played this much myself, but I knew two people who did; one on a Commodore 128
 (running in Commodore 64 mode, of course) and one on an IBM PC.  The Commodore 64
@@ -112,7 +113,7 @@ Even though those are otherwise unrelated.
 *   entry @ [myabandonware](https://www.myabandonware.com/game/galactic-gladiators-u)
 *   entry @ [mobygames](http://www.mobygames.com/game/pc-booter/galactic-gladiators)
 *   video @ [youtube](https://www.youtube.com/watch?v=VwBSBldXSVo)
-*   play online @ [archive.org](https://archive.org/details/msdos_Galactic_Gladiators_1983)
+*   play online @ [archive.org](https://archive.org/details/msdos_Galactic_Gladiators_1983) (DOS)
 
 You know those "tactics" games?  This is an early example of a "tactics" game.
 
@@ -130,6 +131,7 @@ paper and pencil.  But finding a scan of the manual to confirm that would be lov
 *   controls: joystick and 2 buttons
 *   date released: 1987
 *   wikipedia: [Wonder Boy in Monster Land](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_Land)
+*   play online @ [archive.org](https://archive.org/details/arcade_wbml)
 
 Sequel to [Wonder Boy][] (a platformer where the protagonist, due to a
 strange metabolic condition, must eat fruit continuously).
@@ -151,6 +153,7 @@ most likely be familiar with is Zelda 2.
 *   date released: 1984
 *   wikipedia: [Adventure Construction Set](https://en.wikipedia.org/wiki/Adventure_Construction_Set)
 *   review @ [gamebase64](http://www.gamebase64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm)
+*   play online @ [archive.org](https://archive.org/details/d64_Adventure_Construction_Set_1984_Electronic_Arts_Side_A)
 
 (OK, this is not entirely correctly categorized, since ACS is a construction
 set *for* games rather than a game *itself*.  Although it did come with a game,
@@ -192,6 +195,7 @@ Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 *   date released: 1987
 *   wikipedia: [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game))
 *   entry @ [game-oldies](http://game-oldies.com/play-online/dungeon-master-commodore-amiga)
+*   play online @ [archive.org](https://archive.org/details/msdos_Dungeon_Master_1989) (DOS)
 
 A surprisingly intricate dungeon exploration game from the era of personal
 computers that didn't need internal fans. In first-person perspective, and in
