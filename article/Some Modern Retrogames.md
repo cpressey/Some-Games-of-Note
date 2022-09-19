@@ -46,6 +46,7 @@ random element — the baddies' movements are completely determined by your own.
 *   entry @ [csdb](http://csdb.dk/release/?id=52121) ("Gold Edition")
 *   entry @ [mobygames](http://www.mobygames.com/game/c64/joe-gunn) ("Gold Edition")
 *   walkthrough @ [c64-wiki](https://www.c64-wiki.com/wiki/Joe_Gunn_-_Gold_Edition)
+*   play online @ [archive.org](https://archive.org/details/joe-gunn-gold-27-08-2007-english) (C64)
 
 I rather liked this when I first encountered it, but have never had
 the time to play it much.  It plays somewhat like a platformer but
