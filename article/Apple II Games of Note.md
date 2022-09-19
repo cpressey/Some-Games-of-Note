@@ -126,6 +126,32 @@ Something quite strange about being able to steer your shots.
 If you are more familiar with IBM PC games, you might know of
 Paratrooper, which was a clone of this game.
 
+### Escape!
+
+![screenshot](https://www.mobygames.com/images/shots/l/652659-escape-apple-ii-screenshot-a-typical-encounter.png)
+
+*   written by: Silas Warner
+*   available for: Apple II
+*   date released: 1978
+*   entry @ [mobygames](https://www.mobygames.com/game/apple2/escape___)
+*   play online @ [archive.org](https://archive.org/details/escape_apple_ii_silas_warner_1978)
+
+In the lovely lo-res graphics provided by the Apple II, in this game, you have
+to find the exit to a maze, displayed in first-person perspective.  Sometimes you
+meet other people in the maze.  They wear hats.  Sometimes they answer questions
+and sometimes they will show you maps, which display the entire maze top-down
+(but not necessarily accurately.)  You can ask them if they tell the truth and
+they might say non-plussing things like "I always tell the truth" or
+"Sometimes I tell the truth".
+
+It was written in Integer BASIC.
+
+Silas Warner also wrote [Maze Game](https://www.mobygames.com/game/apple2/maze-game/)
+which was, obviously, similar in many respects.  For the longest time, I could not
+identify this game as Escape!, and after finding Maze Game, suspected it was some
+hack (in the sense of third-party modification) applied to Maze Game.  But no, just
+a very similar game written by the same person.
+
 ### Penny Arcade
 
 ![screenshot](https://archive.org/download/a2_Penny_Arcade_1979_Apple/a2_Penny_Arcade_1979_Apple.gif)

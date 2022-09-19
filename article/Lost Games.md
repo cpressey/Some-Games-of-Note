@@ -8,7 +8,7 @@ able to find any information about on the Internet, in part because I may
 not remember their exact names.  [City Connection][] was in this category for
 a long time until somehow I remembered its (non-obvious) name.  Other
 games that have been found since this page was written are
-[Dart Room][] and [Ninja Warrior][].
+[Dart Room][], [Ninja Warrior][], and [Escape!][].
 
 ### Canadian politics simulator
 
@@ -35,25 +35,6 @@ There was one that was a crow that had been killed.  With an arrow
 through it?  It was paired with some idiom like "killing the crow".
 It may have been "eating crow"; that seems more likely as an idiom,
 but I don't remember the graphic involving eating in any way.
-
-### Maze escape with people
-
-*   seen-on: Apple II
-
-Lo-res graphics.  You had to find the exit to a maze, displayed
-in 1st-person perspective.  Sometimes you would meet other people
-in the maze.  They wore hats.  Sometimes they would answer questions
-and sometimes they would have maps.  You could ask them if they
-told the truth and they would say useless things like "I always
-tell the truth" or "Sometimes I tell the truth".
-
-Might have been written in Integer BASIC.
-
-It was *not* [Maze Game by Silas Warner](https://www.mobygames.com/game/apple2/maze-game/)
-but, obviously, it was similar in many respects.  It did not have
-paddle control.  It did not have tracks.  It had other people in
-the maze.  It was low-res, first person, like that.
-It did display a map like that.
 
 ### Galactic conquest
 
@@ -157,4 +138,5 @@ swim.
 [City Connection]: Arcade%20Games%20of%20Note.md#city-connection
 [Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
 [Ninja Warrior]: Recollected%20Games.md#ninja-warrior
+[Escape!]: Apple%20II%20Games%20of%20Note.md#escape
 
