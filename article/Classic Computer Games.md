@@ -4,9 +4,9 @@ Classic Computer Games
 *   schema: Computer game
 
 These are my recollections of a number of computer games, where "computer"
-means "runs on a computer but is not a [video game](Video%20Games%20of%20Note.md)
+means "runs on a computer but is not a [video game](Arcade%20Games%20of%20Note.md)
 nor a [text adventure](Classic%20Text%20Adventures.md)".
-In practice, this means roughly "strategy or puzzle game", whether
+In practice, this means roughly "simulation, strategy or puzzle game", whether
 real-time or turn-based.
 
 You may have heard of many of these games.
