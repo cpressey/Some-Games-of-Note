@@ -8,7 +8,7 @@ able to find any information about on the Internet, in part because I may
 not remember their exact names.  [City Connection][] was in this category for
 a long time until somehow I remembered its (non-obvious) name.  Other
 games that have been found since this page was written are
-[Dart Room][], [Ninja Warrior][], and [Escape!][].
+[Dart Room][], [Ninja Warrior][], [Escape!][], and [Galactic Empires][].
 
 ### Canadian politics simulator
 
@@ -36,17 +36,6 @@ through it?  It was paired with some idiom like "killing the crow".
 It may have been "eating crow"; that seems more likely as an idiom,
 but I don't remember the graphic involving eating in any way.
 
-### Galactic conquest
-
-*   seen-on: Apple II
-
-That's not its name, and it's not Galactic Empire or Galactic Attack.
-
-Text mode, with inverse characters for some things.
-
-There was a grid of numbers indicating planets and their populations(?)
-but I don't remember there being any spatial relationship between them.
-
 ### Castle game on PET
 
 *   seen-on: Commodore PET
@@ -68,7 +57,7 @@ There might have also been spellcasting in this, with the protagonist
 being some kind of wizard, but I might be conflating it with other
 games I saw at that time.
 
-### Would you two like you join me on a fantasia?
+### Would you two like to join me on a fantasia?
 
 *   seen-on: Arcade
 
@@ -138,5 +127,6 @@ swim.
 [City Connection]: Arcade%20Games%20of%20Note.md#city-connection
 [Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
 [Ninja Warrior]: Recollected%20Games.md#ninja-warrior
-[Escape!]: Apple%20II%20Games%20of%20Note.md#escape
+[Escape!]: Computer%20Games%20of%20Note.md#escape
+[Galactic Empires]: Computer%20Games%20of%20Note.md#galactic-empires
 
