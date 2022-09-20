@@ -21,8 +21,8 @@ on (or were a conversion from) other systems.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
 
-*   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
+*   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
 
 It's a C64 classic.  This did eventually get converted to other systems, but
 not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" rather than
@@ -32,15 +32,15 @@ not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" r
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcastles_of_dr_creep_03.gif)
 
-*   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
+*   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
 
 This is more of a puzzle game than a video game.
 
 ### Hovver Bovver
 
-*   written by: Jeff Minter
 *   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
+*   written by: Jeff Minter
 
 Didn't realize "bovver" was "bother" until I was older.
 
@@ -53,10 +53,10 @@ TRS-80
 
 ![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F221258-ninja-warrior-trs-80-coco-screenshot-white-belt-kick-or-jump.gif)
 
-*   written by: Programmer's Guild Inc.
-*   published by: Programmer's Guild Inc.
 *   date released: 1983
 *   entry @ [mobygames](https://www.mobygames.com/game/trs-80-coco/ninja-warrior)
+*   published by: Programmer's Guild Inc.
+*   written by: Programmer's Guild Inc.
 
 Holy cow.  I remember this game!
 
@@ -69,11 +69,11 @@ Arcade
 ![screenshot: Commodore 64](https://static.catseye.tc/archive/www.cbmitapages.it/c64%252Fgames%252FCongo_Bongo.gif)
 ![screenshot: SG-1000](https://static.catseye.tc/archive/www.retrogames.cz/games%252F176%252FSG1000_01.gif)
 
-*   published by: Sega
 *   available for: Arcade
 *   date released: 1983
-*   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-5200-congo-bongo_s11727.html)
+*   published by: Sega
+*   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 
 Here is what is notable about Congo Bongo: the arcade game uses
 [isometric projection][], but the C64 conversion and other
@@ -91,13 +91,13 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 
 ![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252Fthumb%252Fd%252Fd4%252FBosconian_1.jpg%252F200px-Bosconian_1.jpg)
 
-*   published by: Namco
 *   available for: Arcade
 *   controls: joystick and 1 button
 *   date released: 1981
-*   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7196)
+*   published by: Namco
 *   video @ [youtube](https://www.youtube.com/watch?v=_nP5xKoObu4)
+*   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
 
 An omnidirectional scroller in space where you get to
 shoot out the spherical pods of those [Benzene](https://en.wikipedia.org/wiki/Benzene)-shaped
@@ -153,10 +153,10 @@ This is arguably a classic.
 
 ![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F1181242158130.png)
 
-*   published by: Konami
 *   date released: 1981
-*   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
 *   entry @ [arcade-museum.com](https://www.arcade-museum.com/game_detail.php?game_id=9447)
+*   published by: Konami
+*   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
 
 in which bombing the enemy's fuel tanks somehow results in you having *more* fuel.
 This game mechanic would certainly be ridiculed as a "lack of realism" if this game
@@ -165,11 +165,11 @@ and it keeps the game moving.
 
 ### Cloak & Dagger
 
-*   genre: Shoot-'em-Up
 *   available for: Arcade
 *   controls: dual joystick
-*   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
+*   genre: Shoot-'em-Up
 *   video @ [youtube](https://www.youtube.com/watch?v=8OryQRZ6Ez8)
+*   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
 
 There's something that's always attracted me about being able to shoot out
 bits of wall. The boxes and conveyor belts hold a similar draw. Not sure if
@@ -224,10 +224,10 @@ Not sure if worth noting.
 
 ### King's Quest V
 
-*   subtitle: Absence Makes the Heart Go Yonder!
 *   authors: Roberta Williams et al.
-*   genre: Point-and-click adventure
 *   date released: 1990
+*   genre: Point-and-click adventure
+*   subtitle: Absence Makes the Heart Go Yonder!
 *   wikipedia: [King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 
 Alexander takes a mint.
@@ -246,10 +246,10 @@ Console / 16-bit and above
 
 ### Katamari Damacy
 
-*   published by: Namco
-*   genre: Maze-Runner (nominally)
 *   available for: Sony PlayStation
 *   controls: dual analog joystick
+*   genre: Maze-Runner (nominally)
+*   published by: Namco
 *   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
 
 An extremely original game — sort of a four-dimensional maze game where the
@@ -260,13 +260,13 @@ and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 
 ![screenshot](https://static.catseye.tc/archive/www.atarimagazines.com/st-log%252Fissue29%252F35-3.jpg)
 
-*   written by: Dan Gorlin
-*   published by: Brøderbund
-*   genre: Shoot-'em'-Up (nominally)
 *   available for: Amiga 500, Atari ST
 *   controls: mouse and keyboard
 *   date released: 1988
+*   genre: Shoot-'em'-Up (nominally)
+*   published by: Brøderbund
 *   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
+*   written by: Dan Gorlin
 
 Quite possibly the cutest game ever.
 
@@ -285,12 +285,12 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 
 ![screenshot](https://static.catseye.tc/archive/www.atarimania.com/st%252Fscreens%252Fllamatron_llamasoft_6.gif)
 
-*   written by: Jeff Minter
-*   genre: Shoot-'em'-Up
 *   available for: Atari ST, Amiga, MS-DOS
 *   controls: joystick and 1 button
 *   date released: 1991
+*   genre: Shoot-'em'-Up
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
+*   written by: Jeff Minter
 
 Fast-paced, psychedaelic, mindless fun, like most Jeff Minter games.
 Basically a clone of the arcade game Robotron, but with shaggy, smelly
@@ -302,9 +302,9 @@ where I read that.
 
 ### Super Monkey Ball 2
 
-*   genre: Maze-Runner
 *   available for: Nintendo GameCube
 *   controls: analog joystick
+*   genre: Maze-Runner
 *   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
 
 I didn't think I'd like this one, since I really don't like those wooden
@@ -318,12 +318,36 @@ Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
 
+Aliases
+-------
+
+This section is to provide aliases for games that are known by more than
+one name.
+
+### Big Mac: The Mad Maintenance Man
+
+See [Big Mac][].
+
+### Kick-Man
+
+See [Kick][].
+
+### Sam & Ed Basketball
+
+See [Basketball Sam & Ed][].
+
+### Slinky
+
+See [Slinky!][].
+
+### Trap Door
+
+See [The Trap Door][].
+
 Licensed Characters
 -------------------
 
 Many of the ones in "Games Based on British Television" used licensed characters.
-
-### Licensed Character Games
 
 *   Spot (7-Up mascot) (NES)
 *   Fido (7-Up mascot) (??) (NES)
@@ -332,3 +356,9 @@ Many of the ones in "Games Based on British Television" used licensed characters
 *   Road Runner (arcade game)
 *   Kool-Aid (starring Kool-Aid man) (Atari 2600)
 *   There were actually a [huge number of Asterix and Obelix video games](https://en.wikipedia.org/wiki/List_of_Asterix_games#Video_games).
+
+[Big Mac]: Commodore%2064%20Games%20of%20Note.md#big-mac
+[Kick]: Arcade%20Games%20of%20Note.md#kick
+[Basketball Sam & Ed]: Computer%20Sports%20Games%20of%20Note.md#basketball-sam-ed
+[Slinky!]: 8-bit%20Home%20Computer%20Games%20of%20Note.md#slinky
+[The Trap Door]: British%20TV-Derived%20Games%20of%20Note.md#the-trap-door

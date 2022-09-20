@@ -36,6 +36,9 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Lost Games.md" \
          --rewrite-markdown || exit 1
 
+feedmark --input-refdex=refdex.json \
+         "$ARTICLES/Recollected Games.md" \
+         --rewrite-markdown || exit 1
+
 # Not done:
-# - Recollected Games
 # - Role-Playing Games of Note
