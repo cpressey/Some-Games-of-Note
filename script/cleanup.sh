@@ -6,12 +6,14 @@ ARTICLES=./article
                           *.md \
                  >../refdex.json) || exit 1
 
-#lists
-feedmark --input-refdex=refdex.json \
-         --check-against-schema=schema/Text\ adventure.md \
-         "$ARTICLES/Text Adventures of Note.md" \
-         "$ARTICLES/Classic Text Adventures.md" \
-         --rewrite-markdown || exit 1
+for ARTICLE in \
+            "$ARTICLES/Text Adventures of Note.md" \
+            "$ARTICLES/Classic Text Adventures.md"; do
+    feedmark --input-refdex=refdex.json \
+            --check-against-schema=schema/Text\ adventure.md \
+            "$ARTICLE" \
+            --rewrite-markdown || exit 1
+done
 
 for ARTICLE in \
          "$ARTICLES/8-bit Home Computer Games of Note.md" \
@@ -29,11 +31,14 @@ for ARTICLE in \
             --rewrite-markdown || exit 1
 done
 
-feedmark --input-refdex=refdex.json \
-         --check-against-schema=schema/Computer\ game.md \
+for ARTICLE in \
          "$ARTICLES/Classic Computer Games.md" \
-         "$ARTICLES/Computer Games of Note.md" \
-         --rewrite-markdown || exit 1
+         "$ARTICLES/Computer Games of Note.md"; do
+    feedmark --input-refdex=refdex.json \
+            --check-against-schema=schema/Computer\ game.md \
+            "$ARTICLE" \
+            --rewrite-markdown || exit 1
+done
 
 feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Lost\ game.md \
