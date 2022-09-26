@@ -20,6 +20,7 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Commodore 64 Games of Note.md" \
          "$ARTICLES/Apple II Games of Note.md" \
          "$ARTICLES/Arcade Games of Note.md" \
+         "$ARTICLES/Classic Arcade Games.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
          "$ARTICLES/British TV-Derived Games of Note.md" \
          "$ARTICLES/Computer Sports Games of Note.md" \

@@ -19,13 +19,14 @@ For more information, [see below](#about-this-collection).
 
 #### Classic Games
 
+*   [Classic Arcade Games](article/Classic%20Arcade%20Games.md) (9)
 *   [Classic Computer Games](article/Classic%20Computer%20Games.md) (7)
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
 
 #### Other
 
 *   [Lost Games](article/Lost%20Games.md) (5)
-*   [Recollected Games](article/Recollected%20Games.md) (27)
+*   [Recollected Games](article/Recollected%20Games.md) (24)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### About this Collection
