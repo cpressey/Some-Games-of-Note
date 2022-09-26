@@ -61,7 +61,9 @@ If this game is of note, it is not because it was a good game.
 
 ![screenshot](https://www.lemon64.com/games/screenshots/trapdoor_02.png)
 
+*   published by: Piranha Software
 *   available for: ZX Spectrum, Commodore 64, Amstrad CPC
+*   date released: 1986
 *   wikipedia: [The Trap Door (video game)](https://en.wikipedia.org/wiki/The_Trap_Door_(video_game))
 *   entry @ [lemon64](https://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/zx_Trap_Door_The_1986_Piranha) (ZX Spectrum)

@@ -33,6 +33,10 @@ The entity which published the video game.
 
 ### genre
 
+*    optional: true
+
+NOTE, ideally this should not be optional.
+
 Genre.
 
 ### available for
@@ -40,6 +44,10 @@ Genre.
 The platform or platforms that the video game is or was available for.
 
 ### controls
+
+*    optional: true
+
+NOTE, ideally this should not be optional.
 
 What the game is controlled with.
 

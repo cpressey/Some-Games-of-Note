@@ -13,6 +13,7 @@ in public venues such as video arcades, supermarkets, and convenience stores.
 
 *   published by: Exidy
 *   genre: Maze-Runner
+*   available for: Arcade
 *   controls: joystick
 *   date released: 1982
 *   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
@@ -30,6 +31,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 *   published by: Jaleco
 *   genre: Platformer (nominally)
+*   available for: Arcade
 *   controls: joystick and 1 button
 *   date released: 1985
 *   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
@@ -46,6 +48,7 @@ Not sure if it's truly a platformer, though.
 ![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F118124212725.png)
 
 *   genre: Shoot-'em'-Up
+*   available for: Arcade
 *   controls: dual joystick
 *   date released: 1982
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8456)
@@ -94,6 +97,7 @@ free, non-commercial use.
 
 *   published by: Taito
 *   genre: Platformer
+*   available for: Arcade
 *   controls: joystick and 2 buttons
 *   date released: 1990
 *   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
@@ -111,6 +115,7 @@ shape of the kiwi.)
 
 *   published by: Taito
 *   genre: Platformer
+*   available for: Arcade
 *   controls: joystick and 2 buttons
 *   date released: 1988
 *   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
@@ -124,6 +129,8 @@ pistols, magical fireball-belching staffs, and the like.
 
 ![screenshot](https://static.catseye.tc/archive/static.tvtropes.org/pmwiki%252Fpub%252Fimages%252Fkickmanarcadegame.jpg)
 
+*   available for: Arcade
+*   date released: 1981
 *   wikipedia: [Kick (video game)](https://en.wikipedia.org/wiki/Kick_(video_game))
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8298)
 *   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KickMan)
@@ -138,6 +145,8 @@ I remember it from a café in a small farming community in Manitoba.
 
 ![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F0%252F06%252FCrazy_Climber_by_Nihon_Bussan_Co._Ltd.JPG)
 
+*   available for: Arcade
+*   date released: 1980
 *   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7426)
 *   video @ [youtube](https://www.youtube.com/watch?v=QJAEmOtLZHg)
@@ -151,6 +160,8 @@ the word "protagonist" from.
 
 ![screenshot](https://static.catseye.tc/archive/www.gameclassification.com/files%252Fgames%252FMighty-Guy.png)
 
+*   available for: Arcade
+*   date released: 1986
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
 *   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
 

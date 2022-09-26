@@ -14,6 +14,7 @@ for the Commodore 64 and were not a port from another home system.
 *   written by: David Barbour
 *   published by: Mastertronic
 *   genre: Racing
+*   available for: Commodore 64
 *   controls: joystick and 1 button
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2505)
@@ -42,6 +43,7 @@ speed.
 *   written by: Unknown
 *   published by: Mogul Communications
 *   genre: Graphic Adventure(?)
+*   available for: Commodore 64
 *   controls: joystick and 1 button
 *   date released: 1983
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
@@ -59,6 +61,7 @@ known mechanisms.
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcrossroads_01.gif)
 
 *   published by: COMPUTE! Publications Inc.
+*   available for: Commodore 64
 *   date released: 1987
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
 *   play online @ [archive.org](https://archive.org/details/Crossroads_1987_Compute)
@@ -74,10 +77,11 @@ This is possibly one of the best type-in games to ever have appeared in a magazi
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
 
 *   written by: Anthony Crowther
+*   published by: Mirrorsoft(?), Spectrum Holobyte(?)
+*   available for: Commodore 64
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
 *   play online @ [archive.org](https://archive.org/details/Zig_Zag_1987_Mirrorsoft_cr_Level99)
-*   publisher: Mirrorsoft, Spectrum Holobyte
 
 Not to be confused with [a different game called Zig Zag](https://en.wikipedia.org/wiki/Zig_Zag_(video_game))
 by DK'Troniks, which was also available for the C64.
@@ -93,12 +97,12 @@ suggests it was ported to any other systems.
 
 *   subtitle: The Mad Maintenance Man
 *   written by: Tony Kelly
+*   published by: Mastertronic
 *   available for: Commodore 64
 *   date released: 1985
 *   wikipedia: [Big Mac (video game)](https://en.wikipedia.org/wiki/Big_Mac_%28video_game%29)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 *   play online @ [archive.org](https://archive.org/details/Big_Mac_The_Mad_Maintenance_Man_1985_Mastertronic)
-*   publisher: Mastertronic
 
 Nice use of character-mapped graphics.  Well... reasonable use of character-mapped graphics,
 plus some nice gameplay (although the oversensitivity of the switches can admittedly be annoying).
@@ -136,6 +140,8 @@ Well, it's got a dinosaur in a bathtub, that's for sure.
 ![screenshot](https://static.catseye.tc/archive/www.gb64.com/Screenshots%252FL%252FLava_Flow.png)
 
 *   published by: COMPUTE! Publications Inc.
+*   available for: Commodore 64
+*   date released: 1988
 *   entry @ [issuu](https://issuu.com/zetmoon/docs/compute_gazette_issue_63_1988_sep/41)
 *   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
 *   play online @ [archive.org](https://archive.org/details/Lava_Flow_1988_Compute)

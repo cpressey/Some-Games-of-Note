@@ -13,8 +13,7 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Classic Text Adventures.md" \
          --rewrite-markdown || exit 1
 
-feedmark --input-refdex=refdex.json \
-         --check-against-schema=schema/Video\ game.md \
+for ARTICLE in \
          "$ARTICLES/8-bit Home Computer Games of Note.md" \
          "$ARTICLES/Some Modern Retrogames.md" \
          "$ARTICLES/Commodore 64 Games of Note.md" \
@@ -23,8 +22,12 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Classic Arcade Games.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
          "$ARTICLES/British TV-Derived Games of Note.md" \
-         "$ARTICLES/Computer Sports Games of Note.md" \
-         --rewrite-markdown || exit 1
+         "$ARTICLES/Computer Sports Games of Note.md"; do
+    feedmark --input-refdex=refdex.json \
+            --check-against-schema=schema/Video\ game.md \
+            "$ARTICLE" \
+            --rewrite-markdown || exit 1
+done
 
 feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Computer\ game.md \

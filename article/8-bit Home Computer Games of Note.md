@@ -101,14 +101,15 @@ point.  You don't seem to be able to get into a dead-end this way, which is
 probably good (much less frustrating than games in which you can,) but you
 do seem to be able to go in circles quite easily.
 
-[Cloak & Dagger]: Recollected%20Games.md#cloak-dagger
+[Cloak & Dagger]: Classic%20Arcade%20Games.md#cloak--dagger
 
 ### Everyone's a Wally
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fe%252Feveryones_a_wally_02.gif)
 
 *   available for: Commodore 64, ZX Spectrum, Amstrad CPC
-*   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_A_Wally)
+*   date released: 1985
+*   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_a_Wally)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
 *   play online @ [archive.org](https://archive.org/details/Everyones_a_Wally_1985_Mikro-Gen_cr_Professionals) (C64)
 
@@ -210,6 +211,7 @@ Game-wise, it's an okay game.
 
 *   published by: Bubble Bus Software
 *   available for: Commodore 64, MSX, Amstrad CPC, Atari 400/800, others
+*   date released: 1985
 *   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 *   play online @ [archive.org](https://archive.org/details/zx_Starquake_1985_Bubblebus_Software) (ZX Spectrum)

@@ -16,6 +16,7 @@ they are somewhat on the obscure side of "classic".
 
 *   written by: James Andreasen
 *   genre: Graphic Adventure
+*   available for: Atari 2600
 *   controls: joystick and 1 button
 *   date released: 1981
 *   wikipedia: [Haunted House (video game)](https://en.wikipedia.org/wiki/Haunted_House_(video_game))
@@ -35,6 +36,7 @@ I suppose that's minor.
 
 *   written by: Warren Robinett
 *   genre: Graphic Adventure
+*   available for: Atari 2600
 *   controls: joystick and 1 button
 *   date released: 1980
 *   wikipedia: [Adventure (Atari 2600)](https://en.wikipedia.org/wiki/Adventure_(Atari_2600))
@@ -52,6 +54,7 @@ this notion.)
 
 *   written by: Howard Scott Warshaw
 *   genre: Shoot-'em-Up
+*   available for: Atari 2600
 *   controls: joystick and 1 button
 *   date released: 1982
 *   wikipedia: [Yars' Revenge](https://en.wikipedia.org/wiki/Yars%27_Revenge)
