@@ -18,6 +18,7 @@ Of course, some entries in both lists are disputable on that point.
 *   date released: 1981
 *   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
 *   entry @ [arcade-museum.com](https://www.arcade-museum.com/game_detail.php?game_id=9447)
+*   play online @ [archive.org](https://archive.org/details/psx_konamiac)
 
 in which bombing the enemy's fuel tanks somehow results in you having *more* fuel.
 This game mechanic would certainly be ridiculed as a "lack of realism" if this game
@@ -26,32 +27,46 @@ and it keeps the game moving.
 
 ### BurgerTime
 
+![screenshot](https://archive.org/serve/arcade_cbtime/cbtime_screenshot.png)
+
 *   published by: Data East
 *   available for: Arcade
 *   date released: 1982
 *   wikipedia: [BurgerTime](https://en.wikipedia.org/wiki/BurgerTime)
+*   play online @ [archive.org](https://archive.org/details/arcade_cbtime)
 
-This is probably a classic.
+This one is notable for the remarkably unhygienic method of
+food preparation showcased in it.
 
 ### Gorf
+
+![screenshot](https://archive.org/serve/arcade_gorf/gorf_screenshot.png)
 
 *   published by: Midway
 *   available for: Arcade
 *   date released: 1981
 *   wikipedia: [Gorf](https://en.wikipedia.org/wiki/Gorf)
+*   play online @ [archive.org](https://archive.org/details/arcade_gorf)
 
-This is probably a classic.
+There is a weird video effect (shared by Wizard of Wor, below) that I should
+try to research or at least describe here someday.
 
 ### Wizard of Wor
+
+![screenshot](https://archive.org/serve/arcade_wow/arcade_wow_screenshot.png)
 
 *   published by: Midway
 *   available for: Arcade
 *   date released: 1980
 *   wikipedia: [Wizard of Wor](https://en.wikipedia.org/wiki/Wizard_of_Wor)
+*   play online @ [archive.org](https://archive.org/details/arcade_wow)
 
-This is probably a classic.
+There is a weird video effect (shared by Gorf, above) that I should
+try to research or at least describe here someday.
 
 ### Cloak & Dagger
+
+![screenshot](https://archive.org/serve/arcade_cloak/cloak_screenshot.png)
 
 *   published by: Atari, Inc.
 *   genre: Shoot-'em-Up
@@ -60,6 +75,7 @@ This is probably a classic.
 *   date released: 1984
 *   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
 *   video @ [youtube](https://www.youtube.com/watch?v=8OryQRZ6Ez8)
+*   play online @ [archive.org](https://archive.org/details/arcade_cloak)
 
 There's something that's always attracted me about being able to shoot out
 bits of wall. The boxes and conveyor belts hold a similar draw. Not sure if
@@ -73,21 +89,28 @@ never finished, despite the fact that the movie was a commercial success.
 
 ### Mr. Do!
 
+![screenshot](https://archive.org/serve/arcade_mrdo/arcade_mrdo_screenshot.gif)
+
 *   published by: Universal
 *   available for: Arcade
 *   controls: joystick and one button
 *   date released: 1982
 *   wikipedia: [Mr. Do!](https://en.wikipedia.org/wiki/Mr._Do!)
+*   play online @ [archive.org](https://archive.org/details/arcade_mrdo)
 
-This is probably a classic.
+What an voluminous set of rules there is in this game.  There are four
+seperate ways to pass a level, for instance.
 
 ### Reactor
+
+![screenshot](https://archive.org/serve/arcade_reactor/arcade_reactor_screenshot.png)
 
 *   published by: Gottlieb
 *   available for: Arcade
 *   controls: trackball
 *   date released: 1982
 *   wikipedia: [Reactor_(video_game)](https://en.wikipedia.org/wiki/Reactor_(video_game))
+*   play online @ [archive.org](https://archive.org/details/arcade_reactor)
 
 This is arguably a classic.  The first video game to credit the developer (Tim Skelly) on the title screen, apparently.
 
