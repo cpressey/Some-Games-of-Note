@@ -24,7 +24,7 @@ for ARTICLE in \
          "$ARTICLES/Classic Arcade Games.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
          "$ARTICLES/British TV-Derived Games of Note.md" \
-         "$ARTICLES/Computer Sports Games of Note.md"; do
+         "$ARTICLES/Sports Video Games of Note.md"; do
     feedmark --input-refdex=refdex.json \
             --check-against-schema=schema/Video\ game.md \
             "$ARTICLE" \

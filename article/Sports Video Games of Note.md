@@ -1,18 +1,12 @@
-Computer Sports Games of Note
-=============================
+Sports Video Games of Note
+==========================
 
 *   schema: Video game
 
-This is a list of computer sports games
-[of note](A%20Note%20on%20Items%20of%20Note.md).
+This is a list of sports video games [of note](A%20Note%20on%20Items%20of%20Note.md).
 
-I'm not generally a huge fan of sports games.
-These are recognizably about a sport, but
-could not be described as "conventional".
-
-For "computer game" see Computer Games of Note,
-but note that in this instance it does include
-[video games](Video%20Games%20of%20Note.md).
+I'm not generally a huge fan of sports games.  The games listed here are recognizably about a sport,
+but I don't think any of them could be sensibly described as "conventional".
 
 ### Cool Boarders 2
 
