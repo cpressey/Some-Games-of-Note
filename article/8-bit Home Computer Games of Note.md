@@ -108,6 +108,7 @@ do seem to be able to go in circles quite easily.
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fe%252Feveryones_a_wally_02.gif)
 
 *   available for: Commodore 64, ZX Spectrum, Amstrad CPC
+*   controls: joystick and 1 button
 *   date released: 1985
 *   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_a_Wally)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
@@ -151,6 +152,7 @@ could do that.
 *   subtitle: The Pumpkin Strikes Back
 *   published by: Palace Software
 *   available for: Commodore 64, ZX Spectrum
+*   controls: joystick and 1 button
 *   date released: 1986
 *   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
@@ -190,6 +192,7 @@ it was that the graphics felt kind of uninspired.
 
 *   published by: Mikro-Gen, Ltd
 *   available for: Commodore 64, ZX Spectrum, CPC Amstrad
+*   controls: joystick and 1 button
 *   date released: 1986
 *   wikipedia: [Equinox (1986 video game)](https://en.wikipedia.org/wiki/Equinox_(1986_video_game))
 *   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
@@ -211,6 +214,7 @@ Game-wise, it's an okay game.
 
 *   published by: Bubble Bus Software
 *   available for: Commodore 64, MSX, Amstrad CPC, Atari 400/800, others
+*   controls: joystick and 1 button
 *   date released: 1985
 *   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
