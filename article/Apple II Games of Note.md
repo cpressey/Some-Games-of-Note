@@ -156,5 +156,5 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 But Penny Arcade is also notable for being one of the few games I remember having
 a copyright date in the 1970's — the other being [Dart Room][].
 
-[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Dart Room]: Sports%20Video%20Games%20of%20Note.md#dart-room
 

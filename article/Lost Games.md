@@ -125,7 +125,7 @@ you grabbed it, caused your view of the maze to wobble and
 swim.
 
 [City Connection]: Arcade%20Games%20of%20Note.md#city-connection
-[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Dart Room]: Sports%20Video%20Games%20of%20Note.md#dart-room
 [Ninja Warrior]: Recollected%20Games.md#ninja-warrior
 [Escape!]: Computer%20Games%20of%20Note.md#escape
 [Galactic Empires]: Computer%20Games%20of%20Note.md#galactic-empires

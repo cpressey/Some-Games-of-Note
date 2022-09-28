@@ -15,6 +15,7 @@ Of course, some entries in both lists are disputable on that point.
 
 *   published by: Konami
 *   available for: Arcade
+*   controls: joystick and one button
 *   date released: 1981
 *   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
 *   entry @ [arcade-museum.com](https://www.arcade-museum.com/game_detail.php?game_id=9447)
@@ -31,6 +32,7 @@ and it keeps the game moving.
 
 *   published by: Data East
 *   available for: Arcade
+*   controls: joystick and one button
 *   date released: 1982
 *   wikipedia: [BurgerTime](https://en.wikipedia.org/wiki/BurgerTime)
 *   play online @ [archive.org](https://archive.org/details/arcade_cbtime)
@@ -44,6 +46,7 @@ food preparation showcased in it.
 
 *   published by: Midway
 *   available for: Arcade
+*   controls: joystick and one button
 *   date released: 1981
 *   wikipedia: [Gorf](https://en.wikipedia.org/wiki/Gorf)
 *   play online @ [archive.org](https://archive.org/details/arcade_gorf)
@@ -57,6 +60,7 @@ try to research or at least describe here someday.
 
 *   published by: Midway
 *   available for: Arcade
+*   controls: joystick and one button
 *   date released: 1980
 *   wikipedia: [Wizard of Wor](https://en.wikipedia.org/wiki/Wizard_of_Wor)
 *   play online @ [archive.org](https://archive.org/details/arcade_wow)
@@ -107,7 +111,7 @@ seperate ways to pass a level, for instance.
 
 *   published by: Gottlieb
 *   available for: Arcade
-*   controls: trackball
+*   controls: trackball and two buttons
 *   date released: 1982
 *   wikipedia: [Reactor_(video_game)](https://en.wikipedia.org/wiki/Reactor_(video_game))
 *   play online @ [archive.org](https://archive.org/details/arcade_reactor)
@@ -138,10 +142,16 @@ The first arcade game to offer a "continue?" option, apparently.
 
 *   published by: Tecmo
 *   available for: Arcade
+*   controls: joystick and 1 button
 *   date released: 1984
 *   wikipedia: [Bomb Jack](https://en.wikipedia.org/wiki/Bomb_Jack)
 
-I remember seeing it in Portugal.
+I remember seeing it (at a laundromat, I think) while my family was on vacation in Portugal.
 
-You can jump really, really high!
+You can jump really, really high!  You can also slow down your fall after jumping, and glide
+horizontally, by pressing the jump button while falling.
 
+As of this writing the Internet Archive does not have a playable version of it online.
+However, it does have [Bomb Jack Twin](https://archive.org/details/arcade_bjtwin) playable
+online, which has very similar mechanics (but different, more sophisticated graphics, as
+well as 2-player simultaneous mode.)

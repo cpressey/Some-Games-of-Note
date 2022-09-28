@@ -280,7 +280,7 @@ Many of the ones in "Games Based on British Television" used licensed characters
 
 [Big Mac]: Commodore%2064%20Games%20of%20Note.md#big-mac
 [Kick]: Arcade%20Games%20of%20Note.md#kick
-[Basketball Sam & Ed]: Computer%20Sports%20Games%20of%20Note.md#basketball-sam-ed
+[Basketball Sam & Ed]: Sports%20Video%20Games%20of%20Note.md#basketball-sam-ed
 [Slinky!]: 8-bit%20Home%20Computer%20Games%20of%20Note.md#slinky
 [The Trap Door]: British%20TV-Derived%20Games%20of%20Note.md#the-trap-door
 [Mr. Do!]: Classic%20Arcade%20Games.md#mr-do
