@@ -6,16 +6,15 @@ ARTICLES=./article
                           *.md \
                  >../refdex.json) || exit 1
 
-for ARTICLE in \
-            "$ARTICLES/Text Adventures of Note.md" \
-            "$ARTICLES/Classic Text Adventures.md"; do
-    feedmark --input-refdex=refdex.json \
-            --check-against-schema=schema/Text\ adventure.md \
-            "$ARTICLE" \
-            --rewrite-markdown || exit 1
-done
+#lists
+feedmark --input-refdex=refdex.json \
+         --check-against-schema=schema/Text\ adventure.md \
+         "$ARTICLES/Text Adventures of Note.md" \
+         "$ARTICLES/Classic Text Adventures.md" \
+         --rewrite-markdown || exit 1
 
-for ARTICLE in \
+feedmark --input-refdex=refdex.json \
+         --check-against-schema=schema/Video\ game.md \
          "$ARTICLES/8-bit Home Computer Games of Note.md" \
          "$ARTICLES/Some Modern Retrogames.md" \
          "$ARTICLES/Commodore 64 Games of Note.md" \
@@ -24,21 +23,14 @@ for ARTICLE in \
          "$ARTICLES/Classic Arcade Games.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
          "$ARTICLES/British TV-Derived Games of Note.md" \
-         "$ARTICLES/Sports Video Games of Note.md"; do
-    feedmark --input-refdex=refdex.json \
-            --check-against-schema=schema/Video\ game.md \
-            "$ARTICLE" \
-            --rewrite-markdown || exit 1
-done
+         "$ARTICLES/Sports Video Games of Note.md" \
+         --rewrite-markdown || exit 1
 
-for ARTICLE in \
+feedmark --input-refdex=refdex.json \
+         --check-against-schema=schema/Computer\ game.md \
          "$ARTICLES/Classic Computer Games.md" \
-         "$ARTICLES/Computer Games of Note.md"; do
-    feedmark --input-refdex=refdex.json \
-            --check-against-schema=schema/Computer\ game.md \
-            "$ARTICLE" \
-            --rewrite-markdown || exit 1
-done
+         "$ARTICLES/Computer Games of Note.md" \
+         --rewrite-markdown || exit 1
 
 feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Lost\ game.md \
