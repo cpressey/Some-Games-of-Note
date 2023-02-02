@@ -12,7 +12,7 @@ but I don't think any of them could be sensibly described as "conventional".
 
 ![screenshot](https://static.catseye.tc/archive/www.vizzed.com/videogames%252Fpsx%252Fscreenshot%252FCool%252520Boarders%2525202-2.jpg)
 
-*   written by: unknown
+*   written by: Tadayuki Konno (designer)
 *   genre: Sports
 *   available for: Sony PlayStation
 *   controls: D-pad and 6 buttons
@@ -30,7 +30,7 @@ beat.
 
 ![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F3%252F3a%252FNekketsu_koukou_dodgeball_bu.jpg)
 
-*   written by: unknown
+*   written by: Hiroshi Sato (designer)
 *   genre: Sports
 *   available for: Arcade
 *   controls: joystick and 1 or 2 buttons
@@ -45,7 +45,7 @@ players are literally giants.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fsam_and_ed_basketball_01.gif)
 
-*   written by: unknown
+*   written by: Rhett Anderson, David Hensley Jr.
 *   published by: COMPUTE! Publications Inc.
 *   genre: Sports
 *   available for: Commodore 64
