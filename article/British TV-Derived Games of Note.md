@@ -84,5 +84,6 @@ Has some redeeming characteristics.
 
 Based loosely on the British TV series [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) (Wikipedia).
 
-Is notable for being sold with its own ROM chip which had to be installed in the BBC Micro to upgrad it,
-in order to play the game that came on the disk.
+Is notable for being sold with its own ROM chip which had to be installed in the BBC Micro,
+to upgrade its memory capacity and make it capable of playing the game that came on the disk.
+Making it a game that was, in some sense, sold on both disk _and_ cartridge at once.

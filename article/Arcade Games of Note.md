@@ -165,7 +165,7 @@ the word "protagonist" from.
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
 *   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
 
-I thought this was called "Superguy".
+For a long time, before I located it again, I thought this was called "Superguy".
 
 I remember seeing this at the Greyhound station in Winnipeg — back when it
 was located in the downtown, and back when it had a shop with a whole row

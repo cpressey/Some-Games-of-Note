@@ -69,7 +69,7 @@ Arcade
 ![screenshot: Commodore 64](https://static.catseye.tc/archive/www.cbmitapages.it/c64%252Fgames%252FCongo_Bongo.gif)
 ![screenshot: SG-1000](https://static.catseye.tc/archive/www.retrogames.cz/games%252F176%252FSG1000_01.gif)
 
-*   available for: Arcade
+*   available for: Arcade, Commodore 64, SG-1000
 *   date released: 1983
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-5200-congo-bongo_s11727.html)
 *   published by: Sega
@@ -105,9 +105,11 @@ I remember seeing it in an airport in Mexico.
 
 I thought it was cute when I saw it.
 
-#### To Research
+### Black Widow
 
-* Spider eat grubsteak game
+*   wikipedia: [Black Widow (video game)](https://en.wikipedia.org/wiki/Black_Widow_(video_game))
+
+For a long time, this was rather cryptically identified on this list only as the "spider eat grubsteak game".
 
 MS-DOS
 ------
