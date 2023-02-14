@@ -151,3 +151,41 @@ This was a type-in game that appeared in
 September 1988.
 
 It's interesting because the lava works like a cellular automaton, a bit.
+
+### Paradroid
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
+
+*   published by: Hewson Consultants
+*   written by: Andrew Braybrook
+*   available for: Commodore 64
+*   date released: 1985
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
+*   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
+*   play online @ [archive.org](https://archive.org/details/uta_Paradroid_1985_Hewson_Consultants_205)
+
+Perhaps a less good fit for this list; it's arguably a C64 classic rather than
+merely a game "of note"; and it did, eventually, get converted to other systems.
+But the systems were not "the usual contemporaries" of the C64, and as of this
+writing, Wikipedia calls it "a Commodore 64 computer game" rather than
+"an 8-bit game with ports to (insert set of systems which includes the C64 here)".
+
+Alright, enough categorization-consternation.  It's a notable game because you
+play a parasite robot.  As a parasite robot, you can latch onto other hostile
+robots that you encounter and, try to take control of them.
+
+### The Castles of Dr. Creep
+
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcastles_of_dr_creep_03.gif)
+
+*   published by: Brøderbund
+*   written by: Ed Hobbs
+*   available for: Commodore 64
+*   date released: 1984
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
+*   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
+*   play online @ [archive.org](https://archive.org/details/Castles_of_Doctor_Creep_The_1984_Broderbund)
+
+Again this is perhaps a less good fit for this list, for it is
+more of a puzzle game than a video game.  It was, however,
+somewhat suprisingly, released for only the Commodore 64 at the time.

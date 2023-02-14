@@ -17,25 +17,6 @@ Commodore 64
 Some of these aren't totally Commodore 64-specific, and had conversions
 on (or were a conversion from) other systems.
 
-### Paradroid
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
-
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
-*   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
-
-It's a C64 classic.  This did eventually get converted to other systems, but
-not "the usual contemporaries" of the C64; Wikipedia treats it as "a C64 game" rather than
-"an 8-bit game with ports C64 and other systems".
-
-### The Castles of Dr. Creep
-
-![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcastles_of_dr_creep_03.gif)
-
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
-*   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
-
-This is more of a puzzle game than a video game.
 
 ### Hovver Bovver
 
