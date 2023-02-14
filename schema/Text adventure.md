@@ -7,6 +7,12 @@ what properties Text Adventure entries in The Dossier should have.
 The order in which they are listed here induces an order in which they
 should appear on each entry.
 
+### subtitle
+
+*   optional: true
+
+subtitle
+
 ### written by
 
 The author(s) of the text adventure.

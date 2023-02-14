@@ -10,19 +10,19 @@ instructions from the player.
 
 ### Shadowgate
 
-*   authors: Dave Marsh and Karl Roelofs
+*   written by: Dave Marsh and Karl Roelofs
+*   available for: Atari ST, Commodore Amiga, MS-DOS, others
 *   date released: 1987
-*   genre: Point-and-click adventure
 *   wikipedia: [Shadowgate](https://en.wikipedia.org/wiki/Shadowgate)
 
 It was certainly ported to a lot of platforms.
 
 ### King's Quest V
 
-*   authors: Roberta Williams et al.
-*   date released: 1990
-*   genre: Point-and-click adventure
 *   subtitle: Absence Makes the Heart Go Yonder!
+*   written by: Roberta Williams et al.
+*   available for: Commodore Amiga, MS-DOS, others
+*   date released: 1990
 *   wikipedia: [King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V)
 
 Alexander takes a mint.
@@ -38,9 +38,9 @@ But don't even try playing the endgame without a walkthrough.
 
 ### Loom
 
-*   authors: Brian Moriarty
+*   written by: Brian Moriarty
+*   available for: Atari ST, Commodore Amiga, MS-DOS, others
 *   date released: 1990
-*   genre: Point-and-click adventure
 *   wikipedia: [Loom (video game)](https://en.wikipedia.org/wiki/Loom_(video_game))
 
 What struck me the most was that the entire thing was audio and graphics;

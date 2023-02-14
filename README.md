@@ -16,6 +16,7 @@ For more information, [see below](#about-this-collection).
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) (7)
 *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) (10)
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md) (6)
+*   [Point-and-Click Adventures of Note](article/Point-and-Click%20Adventures%20of%20Note.md) (3)
 
 #### Classic Games
 
@@ -26,7 +27,7 @@ For more information, [see below](#about-this-collection).
 #### Other
 
 *   [Lost Games](article/Lost%20Games.md) (5)
-*   [Recollected Games](article/Recollected%20Games.md) (23)
+*   [Recollected Games](article/Recollected%20Games.md) (21)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### About this Collection
