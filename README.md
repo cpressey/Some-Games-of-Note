@@ -8,7 +8,7 @@ For more information, [see below](#about-this-collection).
 
 *   [Arcade Games of Note](article/Arcade%20Games%20of%20Note.md) (9)
 *   [8-bit Home Computer Games of Note](article/8-bit%20Home%20Computer%20Games%20of%20Note.md) (10)
-*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (8)
+*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (10)
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) (6)
 *   [Atari 2600 Games of Note](article/Atari%202600%20Games%20of%20Note.md) (3)
 *   [Sports Video Games of Note](article/Sports%20Video%20Games%20of%20Note.md) (5)
@@ -26,7 +26,7 @@ For more information, [see below](#about-this-collection).
 #### Other
 
 *   [Lost Games](article/Lost%20Games.md) (5)
-*   [Recollected Games](article/Recollected%20Games.md) (24)
+*   [Recollected Games](article/Recollected%20Games.md) (23)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### About this Collection

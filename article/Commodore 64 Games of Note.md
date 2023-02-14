@@ -156,12 +156,12 @@ It's interesting because the lava works like a cellular automaton, a bit.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
 
-*   published by: Hewson Consultants
 *   written by: Andrew Braybrook
+*   published by: Hewson Consultants
 *   available for: Commodore 64
 *   date released: 1985
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
 *   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
 *   play online @ [archive.org](https://archive.org/details/uta_Paradroid_1985_Hewson_Consultants_205)
 
 Perhaps a less good fit for this list; it's arguably a C64 classic rather than
@@ -178,12 +178,12 @@ robots that you encounter and, try to take control of them.
 
 ![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcastles_of_dr_creep_03.gif)
 
-*   published by: Brøderbund
 *   written by: Ed Hobbs
+*   published by: Brøderbund
 *   available for: Commodore 64
 *   date released: 1984
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 *   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 *   play online @ [archive.org](https://archive.org/details/Castles_of_Doctor_Creep_The_1984_Broderbund)
 
 Again this is perhaps a less good fit for this list, for it is
