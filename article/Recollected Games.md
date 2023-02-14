@@ -98,29 +98,6 @@ Worth noting.
 
 Worth noting.
 
-### Pinball Fantasies
-
-Not sure if worth noting.
-
-### King's Quest V
-
-*   authors: Roberta Williams et al.
-*   date released: 1990
-*   genre: Point-and-click adventure
-*   subtitle: Absence Makes the Heart Go Yonder!
-*   wikipedia: [King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V)
-
-Alexander takes a mint.
-
-This game is fairly well written, which is in stark contrast to the other games
-in the King's Quest series, which are simply painful.
-
-If, however, you like things that are so bad that they are absurdly bad (and
-considering what website you're visiting, that's not unlikely,) King's Quest IV
-has moments of morbidity that may make it worthwhile: Graham's scream as he
-falls off the icy cliffs, and the narrator's jesting about "dying for a drink."
-But don't even try playing the endgame without a walkthrough.
-
 Console / 16-bit and above
 --------------------------
 

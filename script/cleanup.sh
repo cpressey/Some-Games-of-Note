@@ -11,6 +11,7 @@ feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Text\ adventure.md \
          "$ARTICLES/Text Adventures of Note.md" \
          "$ARTICLES/Classic Text Adventures.md" \
+         "$ARTICLES/Point-and-Click Adventures of Note.md" \
          --rewrite-markdown || exit 1
 
 feedmark --input-refdex=refdex.json \

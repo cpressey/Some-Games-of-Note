@@ -47,6 +47,7 @@ if __name__ == '__main__':
         "Computer Games of Note.md",
         "Role-Playing Games of Note.md",
         "Text Adventures of Note.md",
+        "Point-and-Click Adventures of Note.md",
     ])
     output_toc('#### Classic Games', [
         "Classic Arcade Games.md",
