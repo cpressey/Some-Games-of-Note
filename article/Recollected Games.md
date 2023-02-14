@@ -83,20 +83,41 @@ MS-DOS
 
 ![screenshot](https://static.catseye.tc/archive/static.giantbomb.com/uploads%252Foriginal%252F0%252F5318%252F614639-cyberb6.jpg)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Cyberbykes
+*   subtitle: Shadow Racer VR
+*   wikipedia: [Cyberbykes](https://en.wikipedia.org/wiki/Cyberbykes)
+*   written by: Artificial Software
+*   genre: Racing
+*   published by: GameTek
+*   date released: 1995
+*   play online @ [archive.org](https://archive.org/details/CYBER_201408) (playable demo)
 
 I remember discovering a secret area you could jump to on one level (I think it
 was "Warwickshire"?), but I don't remember if I ever successfully jumped to it...
 
 ### Stunts
 
+*   wikipedia: [Stunts (video game)](https://en.wikipedia.org/wiki/Stunts_(video_game))
+*   written by: Distinctive Software
+*   genre: Racing
+*   published by: Broderbund
+*   date released: 1990
+*   play online @ [archive.org](https://archive.org/details/msdos_Stunts_1990)
+
 Worth noting.
 
 ### Magic Carpet
 
-*   published by: Bullfrog
+*   wikipedia: [Magic Carpet (video game)](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game))
+*   written by: Bullfrog Productions
+*   genre: Difficult to say
+*   published by: Electronic Arts
+*   date released: 1994
+*   play online @ [archive.org](https://archive.org/details/msdos_Magic_Carpet_Plus_1995)
 
-Worth noting.
+Developed by the same folks who developed Populous, and has some Populous-like
+game mechanics in it, while being more or less an entirely different game.
+
+Magic Carpet
 
 Console / 16-bit and above
 --------------------------
