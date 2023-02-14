@@ -11,22 +11,6 @@ This list is kind of a grab bag and will possibly never be as well organized
 as the other lists.  There is a good chance any particular entry here will
 move to some other list.
 
-Commodore 64
-------------
-
-Some of these aren't totally Commodore 64-specific, and had conversions
-on (or were a conversion from) other systems.
-
-
-### Hovver Bovver
-
-*   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
-*   written by: Jeff Minter
-
-Didn't realize "bovver" was "bother" until I was older.
-
-Need a Llamasoft section.
-
 TRS-80
 ------
 
@@ -159,7 +143,7 @@ and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 *   available for: Amiga 500, Atari ST
 *   controls: mouse and keyboard
 *   date released: 1988
-*   genre: Shoot-'em'-Up (nominally)
+*   genre: Shoot-'em-Up (nominally)
 *   published by: Brøderbund
 *   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 *   written by: Dan Gorlin
@@ -176,6 +160,27 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 > Each kind of enemy has moves it can make, and the player has his moves,
 > but things never happen the same way twice. It's not high concept in
 > the way that "Choplifter" is, but rather a kind of art piece.
+
+### Super Monkey Ball 2
+
+*   available for: Nintendo GameCube
+*   controls: analog joystick
+*   genre: Maze-Runner
+*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
+
+I didn't think I'd like this one, since I really don't like those wooden
+mazes that you tilt with the two dials — which is essentially what this
+game is. But somehow it manages to be fun. Especially when you start
+barrelling down a spiral, completely out of control. The party games I could
+mostly do without, with the exception of racing, which is at least as fun
+as the main game.
+
+Some students had borrowed a video projector from the lab, and hooked it
+up to their GameCube.  I played this on it, projected on the wall.
+IMAX style.  It was vertigo-inducing.
+
+Llamasoft
+---------
 
 ### Llamatron
 
@@ -196,23 +201,14 @@ Llamatron was written for the Atari ST, but I only ever played a version
 for MS-DOS, and apparently this an erstaz version, although I do not recall
 where I read that.
 
-### Super Monkey Ball 2
+### Hovver Bovver
 
-*   available for: Nintendo GameCube
-*   controls: analog joystick
-*   genre: Maze-Runner
-*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
+*   genre: Collect the dots
+*   wikipedia: [Hovver Bovver](https://en.wikipedia.org/wiki/Hover_Bovver)
+*   written by: Jeff Minter
 
-I didn't think I'd like this one, since I really don't like those wooden
-mazes that you tilt with the two dials — which is essentially what this
-game is. But somehow it manages to be fun. Especially when you start
-barrelling down a spiral, completely out of control. The party games I could
-mostly do without, with the exception of racing, which is at least as fun
-as the main game.
-
-Some students had borrowed a video projector from the lab, and hooked it
-up to their GameCube.  I played this on it, projected on the wall.
-IMAX style.  It was vertigo-inducing.
+I didn't realize "bovver" was supposed to be "bother" until a very, very
+long time after I first saw this game.
 
 Aliases
 -------
