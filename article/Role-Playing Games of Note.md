@@ -149,12 +149,12 @@ most likely be familiar with is Zelda 2.
 
 ![screenshot](https://static.catseye.tc/archive/www.gamebase64.com/oldsite%252Fgameofweek%252Fadventures%252Fadventureconstrset%252FLand_of_Aventuria.gif)
 
-*   available for: Commodore 64, others
+*   available for: Apple II, Amiga, Commodore 64, MS-DOS
 *   controls: joystick and one button
 *   date released: 1984
 *   wikipedia: [Adventure Construction Set](https://en.wikipedia.org/wiki/Adventure_Construction_Set)
 *   review @ [gamebase64](http://www.gamebase64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm)
-*   play online @ [archive.org](https://archive.org/details/d64_Adventure_Construction_Set_1984_Electronic_Arts_Side_A)
+*   play online @ [archive.org](https://archive.org/details/d64_Adventure_Construction_Set_1984_Electronic_Arts_Side_A) (C64)
 
 (OK, this is not entirely correctly categorized, since ACS is a construction
 set *for* games rather than a game *itself*.  Although it did come with a game,
@@ -182,6 +182,7 @@ trigger all the objects when the player walks over it, or bumps into it.
 *   wikipedia: [Sword of Fargoal](https://en.wikipedia.org/wiki/Sword_of_Fargoal)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/sword-of-fargoal-5df)
 *   entry @ [mobygames](https://www.mobygames.com/game/sword-of-fargoal)
+*   play online @ [archive.org](https://archive.org/details/sword-of-fargoal-c64-1983-epyx) (C64)
 
 An early roguelike for the VIC-20 and C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
