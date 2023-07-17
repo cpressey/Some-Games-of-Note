@@ -14,7 +14,7 @@ instructions from the player.
 *   available for: Atari ST, Commodore Amiga, MS-DOS, others
 *   date released: 1987
 *   wikipedia: [Shadowgate](https://en.wikipedia.org/wiki/Shadowgate)
-*   play online @ [archive.org](https://archive.org/details/msdos_Shadowgate_1987) (MS-DOS)
+*   play online @ [archive.org](https://archive.org/details/msdos_Shadowgate_1987) (DOS)
 
 It was certainly ported to a lot of platforms.
 
@@ -25,7 +25,7 @@ It was certainly ported to a lot of platforms.
 *   available for: Commodore Amiga, MS-DOS, others
 *   date released: 1990
 *   wikipedia: [King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V)
-*   play online @ [archive.org](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990) (MS-DOS)
+*   play online @ [archive.org](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990) (DOS)
 
 Alexander takes a mint.
 
@@ -44,7 +44,7 @@ But don't even try playing the endgame without a walkthrough.
 *   available for: Atari ST, Commodore Amiga, MS-DOS, others
 *   date released: 1990
 *   wikipedia: [Loom (video game)](https://en.wikipedia.org/wiki/Loom_(video_game))
-*   play online @ [archive.org](https://archive.org/details/loom_dos)
+*   play online @ [archive.org](https://archive.org/details/loom_dos) (DOS)
 
 What struck me the most was that the entire thing was audio and graphics;
 no text.  All the dialogue was spoken.  (This was the case for KQV as well,

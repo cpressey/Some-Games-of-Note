@@ -33,7 +33,7 @@ These are presented in roughly the order I encountered them in.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=4076)
 *   entry @ [gamebase64](http://www.gb64.com/game.php?id=20259)
 *   walkthrough @ [abandonia](http://www.abandonia.com/en/games/842/African+Adventure.html)
-*   play online @ [archive.org](https://archive.org/details/AfricanAdventureOrInSearchOfDr.Livingston1997TonyBaechlerAdventureInteractiveFiction)
+*   play online @ [archive.org](https://archive.org/details/AfricanAdventureOrInSearchOfDr.Livingston1997TonyBaechlerAdventureInteractiveFiction) (DOS)
 
 I found this on a Commodore 64 "Club Disk", but the program was corrupted
 and would always crash at certain spots.  Later in life, I found an archived
@@ -64,7 +64,7 @@ foul-smelling stuff or the wild dog is for...
 *   with graphics: yes
 *   treasure-oriented: yes
 *   wikipedia: [Cranston Manor](https://en.wikipedia.org/wiki/Cranston_Manor)
-*   play online @ [archive.org](https://archive.org/details/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag)
+*   play online @ [archive.org](https://archive.org/details/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag) (Apple II)
 
 Not the best adventure game, certainly, but memorable for some reason.
 
@@ -86,7 +86,7 @@ That's all.  Once you've seen that, you can stop.
 *   with graphics: yes
 *   treasure-oriented: yes
 *   entry @ [gue](http://gue.cgwmuseum.org/galleries/index.php?pub=5&item=25&id=2&key=0)
-*   play online @ [archive.org](https://archive.org/details/a2_Creature_Venture_1981_Highland_Computer_Services)
+*   play online @ [archive.org](https://archive.org/details/a2_Creature_Venture_1981_Highland_Computer_Services) (Apple II)
 
 Whatever other merits this game may or may not have, the main feature
 is the Oozlybub, a creature which has popped up in a few other places
@@ -104,7 +104,7 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 *   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
 *   entry @ [mobygames](http://www.mobygames.com/game/dos/time-and-magik-the-trilogy)
-*   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
+*   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983) (DOS)
 
 I first encountered this on the Amiga 500.
 
@@ -150,7 +150,7 @@ your sanity (at least according to a stat.)
 *   entry @ [mobygames](http://www.mobygames.com/game/winter-wonderland)
 *   entry @ [gamebase64](http://www.gb64.com/game.php?id=8624&d=18)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2866)
-*   play online @ [archive.org](https://archive.org/details/zx_Winter_Wonderland_1986_Incentive_Software_a)
+*   play online @ [archive.org](https://archive.org/details/zx_Winter_Wonderland_1986_Incentive_Software_a) (Spectrum)
 
 This was apparently a demo for The Graphic Adventure Creator,
 but it stands on its own as a game, although perhaps not the best one.
@@ -179,7 +179,7 @@ there's a WOMPA! in it.  Yes, including the exclamation point.
 *   entry @ [world of spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0006951)
 *   entry @ [gamebase64](http://www.gb64.com/game.php?id=9845&d=18)
 *   walkthrough @ [the tipshop](http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0006951)
-*   play online @ [archive.org](https://archive.org/details/zx_Secret_of_St._Brides_The_1985_St._Brides_School_a)
+*   play online @ [archive.org](https://archive.org/details/zx_Secret_of_St._Brides_The_1985_St._Brides_School_a) (Spectrum)
 
 Unlike most of the others on this list, I only came across this game in the
 21st century, and have never gotten very far in it.  I will probably end up
