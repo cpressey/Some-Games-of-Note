@@ -40,11 +40,12 @@ Arcade
 *   published by: Sega
 *   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   play online @ [archive.org](https://archive.org/details/arcade_congo) (Arcade)
-*   play online @ [archive.org](https://archive.org/details/msdos_Congo_Bongo_1984) (DOS)
+*   play online @ [archive.org](https://archive.org/details/Congo_Bongo_1983_Sega_Steve_Beck_Phat_Ho_Beck-Tech_006-01_a) (Atari 2600)
+*   play online @ [archive.org](https://archive.org/details/Congo_Bongo_1985_Sega_cr_1103)
 *   video @ [archive.org](https://archive.org/details/SG_1000_Longplay_001_Congo_Bongo) (SG-1000)
 
 Here is what is notable about Congo Bongo: the arcade game uses
-[isometric projection][], but the DOS conversion and other
+[isometric projection][], but the Atari 2600, Commodore 64, and some other
 conversions use [oblique projection][], while the SG-1000
 conversion uses [orthographic projection][], i.e. "side view",
 i.e. it's just plain two-dimensional.
