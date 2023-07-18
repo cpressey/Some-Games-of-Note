@@ -39,9 +39,12 @@ Arcade
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-5200-congo-bongo_s11727.html)
 *   published by: Sega
 *   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
+*   play online @ [archive.org](https://archive.org/details/arcade_congo) (Arcade)
+*   play online @ [archive.org](https://archive.org/details/msdos_Congo_Bongo_1984) (DOS)
+*   video @ [archive.org](https://archive.org/details/SG_1000_Longplay_001_Congo_Bongo) (SG-1000)
 
 Here is what is notable about Congo Bongo: the arcade game uses
-[isometric projection][], but the C64 conversion and other
+[isometric projection][], but the DOS conversion and other
 conversions use [oblique projection][], while the SG-1000
 conversion uses [orthographic projection][], i.e. "side view",
 i.e. it's just plain two-dimensional.
@@ -55,6 +58,7 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 ### Springer
 
 *   available for: Arcade
+*   play online @ [archive.org](https://archive.org/details/arcade_springer)
 
 I remember seeing it in an airport in Mexico.
 
@@ -64,15 +68,19 @@ I remember seeing it in an airport in Mexico.
 
 I remember seeing it in an airport in Mexico.
 
+Doesn't appear to be on the Internet Archive.
+
 ### Bubbles
 
 *   wikipedia: [Bubbles (video game)](https://en.wikipedia.org/wiki/Bubbles_(video_game))
+*   play online @ [archive.org](https://archive.org/details/arcade_bubbles)
 
 I thought it was cute when I saw it.
 
 ### Black Widow
 
 *   wikipedia: [Black Widow (video game)](https://en.wikipedia.org/wiki/Black_Widow_(video_game))
+*   play online @ [archive.org](https://archive.org/details/arcade_bwidow)
 
 For a long time, this was rather cryptically identified on this list only as the "spider eat grubsteak game".
 
