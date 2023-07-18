@@ -19,7 +19,7 @@ Of course, some entries in both lists are disputable on that point.
 *   date released: 1981
 *   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
 *   entry @ [arcade-museum.com](https://www.arcade-museum.com/game_detail.php?game_id=9447)
-*   play online @ [archive.org](https://archive.org/details/psx_konamiac)
+*   play online @ [archive.org](https://archive.org/details/psx_konamiac) (Emulated on PlayStation in "Konami Arcade Classics" collection)
 
 in which bombing the enemy's fuel tanks somehow results in you having *more* fuel.
 This game mechanic would certainly be ridiculed as a "lack of realism" if this game
