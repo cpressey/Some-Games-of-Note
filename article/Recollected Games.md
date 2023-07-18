@@ -96,28 +96,32 @@ was "Warwickshire"?), but I don't remember if I ever successfully jumped to it..
 
 ### Stunts
 
+![screenshot](https://cdn.mobygames.com/screenshots/15969823-stunts-amiga-flying-over-a-boat-with-my-yellow-carrera-4.png)
+
 *   wikipedia: [Stunts (video game)](https://en.wikipedia.org/wiki/Stunts_(video_game))
 *   written by: Distinctive Software
 *   genre: Racing
 *   published by: Broderbund
 *   date released: 1990
+*   entry @ [mobygames](https://www.mobygames.com/game/329/stunts/)
 *   play online @ [archive.org](https://archive.org/details/msdos_Stunts_1990)
 
 Worth noting.
 
 ### Magic Carpet
 
+![screenshot](https://cdn.mobygames.com/screenshots/16681841-magic-carpet-dos-a-large-house-reflected-in-its-private-pond.png)
+
 *   wikipedia: [Magic Carpet (video game)](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game))
 *   written by: Bullfrog Productions
 *   genre: Difficult to say
 *   published by: Electronic Arts
 *   date released: 1994
-*   play online @ [archive.org](https://archive.org/details/msdos_Magic_Carpet_Plus_1995)
+*   entry @ [mobygames](https://www.mobygames.com/game/361/magic-carpet/)
+*   play online @ [archive.org](https://archive.org/details/msdos_Magic_Carpet_Plus_1995) (Actually "Magic Carpet Plus", with extra levels)
 
 Developed by the same folks who developed Populous, and has some Populous-like
 game mechanics in it, while being more or less an entirely different game.
-
-Magic Carpet
 
 Console / 16-bit and above
 --------------------------
