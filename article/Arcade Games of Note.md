@@ -120,10 +120,15 @@ shape of the kiwi.)
 *   date released: 1988
 *   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8859)
+*   play online @ [archive.org](https://archive.org/details/New_Zealand_Story_The_J_h1C) (_Ported_ to Sega Genesis)
 
 "This game is dedicated to all maze fans." However, that should not deter
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
 pistols, magical fireball-belching staffs, and the like.
+
+The port to the Sega Genesis on the Internet Archive (linked above) seems quite
+accurate, aside from the music (the tunes and arrangement seem to be the same, but the
+quality of the synthesized instruments is a lot lower).
 
 ### Kick
 
@@ -150,6 +155,7 @@ I remember it from a café in a small farming community in Manitoba.
 *   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7426)
 *   video @ [youtube](https://www.youtube.com/watch?v=QJAEmOtLZHg)
+*   play online @ [archive.org](https://archive.org/details/psx_cclimber) (_Emulated_ on PlayStation as "Arcade Hits - Crazy Climber")
 
 I remember it from a café in a small farming community in Manitoba.  In
 the instructions panel affixed to the cabinet, the protagonist was
