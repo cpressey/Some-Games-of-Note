@@ -85,6 +85,10 @@ I thought it was cute when I saw it.
 
 For a long time, this was rather cryptically identified on this list only as the "spider eat grubsteak game".
 
+### Xenophobe
+
+*   play online @ [archive.org](https://archive.org/details/arcade_xenophob)
+
 MS-DOS
 ------
 
@@ -221,6 +225,57 @@ where I read that.
 I didn't realize "bovver" was supposed to be "bother" until a very, very
 long time after I first saw this game.
 
+Licensed Characters
+-------------------
+
+_See also_: By their nature, most of the games in
+[British TV-Derived Games of Note](British%20TV-Derived%20Games%20of%20Note.md)
+use licensed characters.
+
+#### Popeye (Arcade)
+
+This was actually quite good.
+
+#### Smurf Rescue in Gargamel's Castle (ColecoVision)
+
+*   play online @ [archive.org](https://archive.org/details/SmurfRescueInGargamelsCastle1982Coleco)
+
+Not terrible
+
+#### Spot (7-Up mascot) (NES)
+
+Unknown
+
+#### Fido (7-Up mascot) (??) (NES)
+
+Unknown
+
+#### The Noid (Domino's Pizza mascot) (NES)
+
+Unknown
+
+#### Garfield (NES)
+
+Apparently it was awful.
+
+#### Road Runner (Arcade)
+
+*   play online @ [archive.org](https://archive.org/details/arcade_roadrunn)
+
+But I think this is _not_ the Road Runner game I remember seeing at Expo 86,
+because in that one, there was running left and right on an S-shaped curve
+in the road; on a higher-resolution (think "Rampage" or "Xenophobe") display.
+
+#### Kool-Aid (starring Kool-Aid man) (Atari 2600)
+
+*   play online @ [archive.org](https://archive.org/details/atari_2600_kool-aid_man_kool_aid_pitcher_man_1983_m_network_stephen_tatsumi_jane_)
+
+Culturally notable.
+
+#### Also...
+
+* There were actually a [huge number of Asterix and Obelix video games](https://en.wikipedia.org/wiki/List_of_Asterix_games#Video_games).
+
 Aliases
 -------
 
@@ -255,18 +310,7 @@ See [Mr. Do!][].
 
 See [BurgerTime][].
 
-Licensed Characters
--------------------
-
-Many of the ones in "Games Based on British Television" used licensed characters.
-
-*   Spot (7-Up mascot) (NES)
-*   Fido (7-Up mascot) (??) (NES)
-*   The Noid (Domino's Pizza mascot) (NES)
-*   Garfield (NES)  (Apparently it was awful.)
-*   Road Runner (arcade game)
-*   Kool-Aid (starring Kool-Aid man) (Atari 2600)
-*   There were actually a [huge number of Asterix and Obelix video games](https://en.wikipedia.org/wiki/List_of_Asterix_games#Video_games).
+- - - -
 
 [Big Mac]: Commodore%2064%20Games%20of%20Note.md#big-mac
 [Kick]: Arcade%20Games%20of%20Note.md#kick
