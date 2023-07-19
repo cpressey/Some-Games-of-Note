@@ -225,16 +225,8 @@ where I read that.
 I didn't realize "bovver" was supposed to be "bother" until a very, very
 long time after I first saw this game.
 
-Licensed Characters
--------------------
-
-_See also_: By their nature, most of the games in
-[British TV-Derived Games of Note](British%20TV-Derived%20Games%20of%20Note.md)
-use licensed characters.
-
-#### Popeye (Arcade)
-
-This was actually quite good.  But the arcade version is not on the IA.
+Food and Drink Mascot-Based Video Games of Note
+-----------------------------------------------
 
 #### M.C. Kids
 
@@ -244,12 +236,11 @@ This was actually quite good.  But the arcade version is not on the IA.
 
 A strangely high-quality platformer promoting a certain fast-food franchise.
 
-#### Smurf Rescue in Gargamel's Castle (ColecoVision)
+#### Kool-Aid (starring Kool-Aid man) (Atari 2600)
 
-*   date: 1982
-*   play online @ [archive.org](https://archive.org/details/SmurfRescueInGargamelsCastle1982Coleco)
+*   play online @ [archive.org](https://archive.org/details/atari_2600_kool-aid_man_kool_aid_pitcher_man_1983_m_network_stephen_tatsumi_jane_)
 
-Not terrible
+Culturally notable.
 
 #### Spot
 
@@ -272,6 +263,24 @@ Fido Dido, 7-Up's other mascot.  Though it is not known to me if it is in his ca
 
 Unknown
 
+Licensed Cartoon Characters
+---------------------------
+
+_See also_: One or two games in
+[British TV-Derived Games of Note](British%20TV-Derived%20Games%20of%20Note.md)
+use licensed cartoon characters.
+
+#### Popeye (Arcade)
+
+This was actually quite good.  But the arcade version is not on the IA.
+
+#### Smurf Rescue in Gargamel's Castle (ColecoVision)
+
+*   date: 1982
+*   play online @ [archive.org](https://archive.org/details/SmurfRescueInGargamelsCastle1982Coleco)
+
+Not terrible
+
 #### Garfield (NES)
 
 Apparently it was awful.
@@ -283,12 +292,6 @@ Apparently it was awful.
 But I think this is _not_ the Road Runner game I remember seeing at Expo 86,
 because in that one, there was running left and right on an S-shaped curve
 in the road; on a higher-resolution (think "Rampage" or "Xenophobe") display.
-
-#### Kool-Aid (starring Kool-Aid man) (Atari 2600)
-
-*   play online @ [archive.org](https://archive.org/details/atari_2600_kool-aid_man_kool_aid_pitcher_man_1983_m_network_stephen_tatsumi_jane_)
-
-Culturally notable.
 
 #### Also...
 
