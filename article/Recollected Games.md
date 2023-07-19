@@ -234,21 +234,39 @@ use licensed characters.
 
 #### Popeye (Arcade)
 
-This was actually quite good.
+This was actually quite good.  But the arcade version is not on the IA.
+
+#### M.C. Kids
+
+*   available for: NES, Commodore 64, Amiga, Atari ST, DOS
+*   wikipedia: [M.C. Kids](https://en.wikipedia.org/wiki/M.C._Kids)
+*   play online @ [archive.org](https://archive.org/details/msdos_M.C._Kids_1992) (DOS)
+
+A strangely high-quality platformer promoting a certain fast-food franchise.
 
 #### Smurf Rescue in Gargamel's Castle (ColecoVision)
 
+*   date: 1982
 *   play online @ [archive.org](https://archive.org/details/SmurfRescueInGargamelsCastle1982Coleco)
 
 Not terrible
 
-#### Spot (7-Up mascot) (NES)
+#### Spot
 
-Unknown
+*   date: 1990
+*   available for: DOS, Game Boy, Commodore 64, NES, Amiga, Atari ST
+*   play online @ [archive.org](https://archive.org/details/d64_Spot_1990_Virgin_Mastertronic) (C64)
+*   entry @ [mobygames](https://www.mobygames.com/game/13124/spot/)
 
-#### Fido (7-Up mascot) (??) (NES)
+7-Up's mascot.  Puzzle Game
 
-Unknown
+#### Fido Dido
+
+*   date: 1993
+*   play online @ [archive.org](https://archive.org/details/Fido_Dido_USA_Proto.md) (Sega Genesis)
+
+Fido Dido, 7-Up's other mascot.  Though it is not known to me if it is in his capacity _as_
+7-Up's mascot that he appears in this game.  Will need to research this more.
 
 #### The Noid (Domino's Pizza mascot) (NES)
 
