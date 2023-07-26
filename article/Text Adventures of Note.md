@@ -39,7 +39,7 @@ I found this on a Commodore 64 "Club Disk", but the program was corrupted
 and would always crash at certain spots.  Later in life, I found an archived
 version on the Internet which seemed to be slightly different.  I seem to recall
 the first version I played had a voice saying "plugh" (yes, like in
-[Colossal Cave](../Classic%20Text%20Adventures.md#colossal-cave))
+[Colossal Cave](Classic%20Text%20Adventures.md#colossal-cave))
 in the cavern.  Was it a modified version of this?  Was it an independent
 conversion to C64?  I'm not sure.  Who knows how many versions of this
 game have been floating around out there.
