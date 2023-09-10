@@ -41,7 +41,7 @@ Arcade
 *   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   play online @ [archive.org](https://archive.org/details/arcade_congo) (Arcade)
 *   play online @ [archive.org](https://archive.org/details/Congo_Bongo_1983_Sega_Steve_Beck_Phat_Ho_Beck-Tech_006-01_a) (Atari 2600)
-*   play online @ [archive.org](https://archive.org/details/Congo_Bongo_1985_Sega_cr_1103)
+*   play online @ [archive.org](https://archive.org/details/Congo_Bongo_1985_Sega_cr_1103) (C64)
 *   video @ [archive.org](https://archive.org/details/SG_1000_Longplay_001_Congo_Bongo) (SG-1000)
 
 Here is what is notable about Congo Bongo: the arcade game uses
@@ -251,12 +251,18 @@ Culturally notable.
 
 7-Up's mascot.  Puzzle Game
 
+### Cool Spot
+
+*   play online @ [archive.org](https://archive.org/details/gg_Cool_Spot_Rev_1_1993VirginUS)
+
+7-Up's mascot, again.  Action game
+
 #### Fido Dido
 
 *   date: 1993
 *   play online @ [archive.org](https://archive.org/details/Fido_Dido_USA_Proto.md) (Sega Genesis)
 
-Fido Dido, 7-Up's other mascot.  Though it is not known to me if it is in his capacity _as_
+Fido Dido, 7-Up's _other_ mascot.  Though it is not known to me if it is in his capacity _as_
 7-Up's mascot that he appears in this game.  Will need to research this more.
 
 #### The Noid (Domino's Pizza mascot) (NES)
