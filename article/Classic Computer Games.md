@@ -74,10 +74,24 @@ asks you for a question that would distinguish the animal that you chose,
 and adds it to its database.  In this way it "learns" about more animals
 as more games are played.
 
-According to [this page](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_17.html)
-a LISP version of this program appears in Chapter 6 of
-"LISP" by Patrick Henry Winston and Berthold Horn (1982)
+According to [this archived web page](https://web.archive.org/web/20220710120832/https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_17.html),
+a LISP version of this program appears in Chapter 6 of the 1985 edition of "LISP" by Patrick Henry Winston and Berthold Horn
 (ISBN [0201083299 9780201083293](http://www.worldcat.org/title/lisp/oclc/256188963)).
+
+I cannot confirm that, but in the [1981 edition of that same book on IA](https://archive.org/details/lisp-1981-addison-wesley)
+chapter 6 is dedicated to explaining lambda expressions.
+Chapter 18 gives an example of an expert system for
+identifying animals, and a transcript of this system being
+run in a backwards-chaining manner in which the user is asked
+yes/no questions (p. 248), which could certainly be regarded as the seed
+for this game.
+
+But the knowledge model I've seen this game implemented with
+is often far simpler than this, where the program simply stores a
+decision tree of arbitrary yes/no questions, terminating in the
+name of an animale, rather than sets of properties of definable
+objects from which it narrows down the possibilities based on
+supplied information.
 
 I'm sure I played a Applesoft BASIC version of the game as well, on an Apple II,
 probably around 1982 as well.

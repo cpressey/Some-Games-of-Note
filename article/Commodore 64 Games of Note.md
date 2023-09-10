@@ -116,7 +116,7 @@ plus some nice gameplay (although the oversensitivity of the switches can admitt
 *   date released: 1986
 *   wikipedia: [Wizard (1984 video game)](https://en.wikipedia.org/wiki/Wizard_(1984_video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
-*   play online @ [archive.org](https://archive.org/details/d64_Ultimate_Wizard_1986_Electronic_Arts_Levels)
+*   play online @ [archive.org](https://archive.org/details/d64_Wizard_1986_Electronic_Arts_Side_A)
 
 Obviously influenced by Jumpman.  It's Jumpman with spells and a construction
 kit, really.  Not that that's bad, at all.
